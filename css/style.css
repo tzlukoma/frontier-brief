@@ -18,9 +18,9 @@
   --text-secondary: #9090a8;
   --text-muted:     #5a5a72;
 
-  --accent:      #7c6aff;
-  --accent-dim:  rgba(124,106,255,0.12);
-  --accent-glow: rgba(124,106,255,0.25);
+  --accent:      #2563eb;
+  --accent-dim:  rgba(37,99,235,0.12);
+  --accent-glow: rgba(37,99,235,0.25);
 
   --tag-bg:      rgba(255,255,255,0.06);
   --tag-text:    #9090a8;
@@ -48,9 +48,9 @@
   --text-secondary: #4a4a62;
   --text-muted:     #9090a8;
 
-  --accent:      #6355e0;
-  --accent-dim:  rgba(99,85,224,0.10);
-  --accent-glow: rgba(99,85,224,0.22);
+  --accent:      #1d4ed8;
+  --accent-dim:  rgba(29,78,216,0.10);
+  --accent-glow: rgba(29,78,216,0.22);
 
   --tag-bg:      rgba(0,0,0,0.05);
   --tag-text:    #5a5a72;
