@@ -410,5 +410,110 @@
     "tags": [
       "ai-product"
     ]
+  },
+  {
+    "id": "s020",
+    "type": "signal",
+    "title": "\ud83e\udde0 Community Wisdom: When AI velocity outpaces your product strategy, when your estimates keep slipping, one day in San Francisco, pairing Claude Code with Codex, and more",
+    "expert": "Lenny Rachitsky",
+    "expert_slug": "lenny-rachitsky",
+    "source_type": "newsletter",
+    "source_url": "https://www.lennysnewsletter.com/p/community-wisdom-when-ai-velocity",
+    "published": "2026-03-28",
+    "processed": "2026-04-18",
+    "domains": [
+      "ai-\u00d7-product",
+      "growth",
+      "pm-career"
+    ],
+    "thomas_lens": "I can see the article metadata, but the actual content appears to be just HTML/CSS boilerplate and schema markup. To create the structured brief you need, I'll need the actual article text.\n\nCould you provide the full article content? You can either:\n1. Copy the article text directly\n2. Save it to a file and I'll read it\n3. If you have a URL, I can fetch it using WebFetch\n\nThe current content show",
+    "key_quote": "Community Wisdom 179",
+    "tags": [
+      "ai-product"
+    ]
+  },
+  {
+    "id": "s021",
+    "type": "signal",
+    "title": "9 axioms of Interpersonal Communication",
+    "expert": "Shreyas Doshi",
+    "expert_slug": "shreyas-doshi",
+    "source_type": "newsletter",
+    "source_url": "https://shreyasdoshi.substack.com/p/9-axioms-of-interpersonal-communication",
+    "published": "2026-03-25",
+    "processed": "2026-04-18",
+    "domains": [
+      "product-leadership",
+      "ai-\u00d7-pm",
+      "career"
+    ],
+    "thomas_lens": "I need the actual article content to create this brief. The provided text contains only HTML metadata, CSS styling, and schema markup, but not the 9 axioms themselves or the article's substantive content.\n\nCould you either:\n1. Provide the full article text with the actual axioms and explanations, or\n2. Share a different format (like a markdown export or plain text copy)?\n\nI can see from the metada",
+    "key_quote": "arbitrarily sophisticated approaches for your own communication",
+    "tags": [
+      "ai-product"
+    ]
+  },
+  {
+    "id": "s022",
+    "type": "signal",
+    "title": "The Humility Trap",
+    "expert": "Shreyas Doshi",
+    "expert_slug": "shreyas-doshi",
+    "source_type": "newsletter",
+    "source_url": "https://shreyasdoshi.substack.com/p/the-humility-trap",
+    "published": "2026-02-04",
+    "processed": "2026-04-18",
+    "domains": [
+      "product-leadership",
+      "ai-\u00d7-pm",
+      "career"
+    ],
+    "thomas_lens": "I can see the article metadata and styling, but the actual article content is missing from what you've provided. The paste appears to contain mostly HTML/CSS markup and font definitions rather than Shreyas Doshi's actual text.\n\nFrom the metadata, I can see:\n- Title: \"The Humility Trap\"\n- Description: \"Many assume that when someone publicly expresses 'vulnerability', it is a sign of humility.\"\n- Pu",
+    "key_quote": "The Humility Trap",
+    "tags": [
+      "ai-product"
+    ]
+  },
+  {
+    "id": "s023",
+    "type": "signal",
+    "title": "Route Around Big Egos",
+    "expert": "Shreyas Doshi",
+    "expert_slug": "shreyas-doshi",
+    "source_type": "newsletter",
+    "source_url": "https://shreyasdoshi.substack.com/p/route-around-big-egos",
+    "published": "2026-01-28",
+    "processed": "2026-04-18",
+    "domains": [
+      "product-leadership",
+      "ai-\u00d7-pm",
+      "career"
+    ],
+    "thomas_lens": "I need permission to fetch the article content from the web. The content you provided contains mostly CSS and metadata rather than the actual article text. \n\nCould you either:\n1. Grant permission for me to use WebFetch to retrieve the article, or\n2. Provide the actual article text (copy the main content from the page)?\n\nI can see from the metadata that it's about \"When two Type-A PMs negotiate, ev",
+    "key_quote": "When two Type-A PMs negotiate, everyone loses,",
+    "tags": [
+      "ai-product"
+    ]
+  },
+  {
+    "id": "s024",
+    "type": "signal",
+    "title": "The First Law of Parenting",
+    "expert": "Shreyas Doshi",
+    "expert_slug": "shreyas-doshi",
+    "source_type": "newsletter",
+    "source_url": "https://shreyasdoshi.substack.com/p/the-first-law-of-parenting",
+    "published": "2026-01-22",
+    "processed": "2026-04-18",
+    "domains": [
+      "product-leadership",
+      "ai-\u00d7-pm",
+      "career"
+    ],
+    "thomas_lens": "I can see the article metadata and formatting code, but the actual content of \"The First Law of Parenting\" article isn't included in what you've pasted. I only see HTML/CSS styling definitions and schema markup.\n\nTo generate the structured brief you need, I'll need the actual article text - the body content where Shreyas Doshi explains his \"First Law of Parenting\" concept.\n\nCould you either:\n1. Pa",
+    "key_quote": "The First Law of Parenting",
+    "tags": [
+      "ai-product"
+    ]
   }
 ]
