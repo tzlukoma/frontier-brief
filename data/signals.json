@@ -137,29 +137,5 @@
       "case-study",
       "voice-ui"
     ]
-  },
-  {
-    "id": "s007",
-    "type": "signal",
-    "title": "How to Balance Customer Delight and Profits",
-    "expert": "Gibson Biddle",
-    "expert_slug": "gibson-biddle",
-    "source_type": "article",
-    "source_url": "https://gibsonbiddle.substack.com/p/how-to-delight-customers-in-hard",
-    "published": "2020-12-07",
-    "processed": "2026-04-18",
-    "domains": [
-      "product-strategy",
-      "product-leadership"
-    ],
-    "thomas_lens": "AI product leaders face identical trade-offs: when to invest in inference costs for better responses vs. margin, or when losing revenue builds defensible moats (proprietary training data, user trust, personalization networks). The framework forces quantification of \"delight\" through retention metrics and distinguishes between what users request versus what actually changes their behavior. As AI products scale, the calculus shifts\u2014what's unaffordable at 1M users becomes strategically obvious at 1",
-    "key_quote": "What customers say doesn't always match their behavior. You need A/B testing to measure behavior change.",
-    "tags": [
-      "product-strategy",
-      "retention-metrics",
-      "customer-delight",
-      "ab-testing",
-      "margin-optimization"
-    ]
   }
 ]
