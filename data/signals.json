@@ -223,27 +223,6 @@
     ]
   },
   {
-    "id": "s012",
-    "type": "signal",
-    "title": "I built a custom Slack inbox. It was easier than you\u2019d think. | Yash Tekriwal (Clay)",
-    "expert": "Lenny Rachitsky",
-    "expert_slug": "lenny-rachitsky",
-    "source_type": "newsletter",
-    "source_url": "https://www.lennysnewsletter.com/p/i-built-a-custom-slack-inbox-it-was",
-    "published": "2026-04-08",
-    "processed": "2026-04-18",
-    "domains": [
-      "ai-\u00d7-product",
-      "growth",
-      "pm-career"
-    ],
-    "thomas_lens": "(for an AI-native product leader repositioning their career):**",
-    "key_quote": "**\n[Unable to extract - article body not included in provided content]\n\n**TAGS:**",
-    "tags": [
-      "**"
-    ]
-  },
-  {
     "id": "s013",
     "type": "signal",
     "title": "Listen: A visual guide to getting out of a creative slump",
@@ -580,67 +559,6 @@
     ]
   },
   {
-    "id": "s029",
-    "type": "signal",
-    "title": "The Problem with Peer-reviewed Studies on Human Behavior (and a Wiser Solution)",
-    "expert": "Shreyas Doshi",
-    "expert_slug": "shreyas-doshi",
-    "source_type": "newsletter",
-    "source_url": "https://shreyasdoshi.substack.com/p/the-problem-with-peer-reviewed-studies",
-    "published": "2025-12-26",
-    "processed": "2026-04-18",
-    "domains": [
-      "product-leadership",
-      "ai-\u00d7-pm",
-      "career"
-    ],
-    "thomas_lens": "(for an AI-native product leader repositioning their career):**",
-    "key_quote": "**\n\"Peer-reviewed research on human psychology & behavior explains averages and correlations and it doesn't say much about its applicability to you specifically. So, think for yourself.\"\n\n**TAGS:**",
-    "tags": [
-      "**"
-    ]
-  },
-  {
-    "id": "s030",
-    "type": "signal",
-    "title": "Focus, focus, focus!",
-    "expert": "Gibson Biddle",
-    "expert_slug": "gibson-biddle",
-    "source_type": "newsletter",
-    "source_url": "https://gibsonbiddle.substack.com/p/focus-focus-focus",
-    "published": "2021-04-08",
-    "processed": "2026-04-18",
-    "domains": [
-      "product-strategy",
-      "product-leadership"
-    ],
-    "thomas_lens": "(for an AI-native product leader repositioning their career):**",
-    "key_quote": "**\n\"I now have more than 4,000 subscribers for my 'Ask Gib' product newsletter, so I will focus all of my writing energy there.\"\n\n**TAGS:**",
-    "tags": [
-      "**"
-    ]
-  },
-  {
-    "id": "s031",
-    "type": "signal",
-    "title": "Check out my \"Ask Gib\" newsletter to read daily answers to product management questions.",
-    "expert": "Gibson Biddle",
-    "expert_slug": "gibson-biddle",
-    "source_type": "newsletter",
-    "source_url": "https://gibsonbiddle.substack.com/p/check-out-my-ask-gib-newsletter-to",
-    "published": "2020-12-24",
-    "processed": "2026-04-18",
-    "domains": [
-      "product-strategy",
-      "product-leadership"
-    ],
-    "thomas_lens": "(for an AI-native product leader repositioning their career):**",
-    "key_quote": "**\n\"In this 'Friends of Gib' newsletter, I write weekly essays about product management, leadership, and strategy. If you'd like to hear from me more often, subscribe to my new 'Ask Gib' newsletter, too.\"\n\n**TAGS:**",
-    "tags": [
-      "**"
-    ]
-  },
-  {
     "id": "s032",
     "type": "signal",
     "title": "How to Balance Customer Delight and Profits",
@@ -658,26 +576,6 @@
     "key_quote": "Two Netflix cases illustrate how the DHM strategy model helps product leaders balance delight and margin,",
     "tags": [
       "ai-product"
-    ]
-  },
-  {
-    "id": "s033",
-    "type": "signal",
-    "title": "Why Won't Netflix Party?",
-    "expert": "Gibson Biddle",
-    "expert_slug": "gibson-biddle",
-    "source_type": "newsletter",
-    "source_url": "https://gibsonbiddle.substack.com/p/why-wont-netflix-party",
-    "published": "2020-12-01",
-    "processed": "2026-04-18",
-    "domains": [
-      "product-strategy",
-      "product-leadership"
-    ],
-    "thomas_lens": "(for an AI-native product leader repositioning their career):**",
-    "key_quote": "**\n[Unable to extract - full article content not provided]\n\n**TAGS:**",
-    "tags": [
-      "**"
     ]
   },
   {
@@ -986,27 +884,6 @@
     ]
   },
   {
-    "id": "s049",
-    "type": "signal",
-    "title": "Covering 10 points, a surprisingly tricky puzzle.",
-    "expert": "Andrej Karpathy",
-    "expert_slug": "andrej-karpathy",
-    "source_type": "video",
-    "source_url": "https://www.youtube.com/shorts/QLu_ZsRc_G0",
-    "published": "2026-04-16",
-    "processed": "2026-04-18",
-    "domains": [
-      "ai-capabilities",
-      "ai-education",
-      "technical-ai"
-    ],
-    "thomas_lens": "**",
-    "key_quote": "**\n[Cannot generate without transcript - would be fabrication]\n\n**TAGS:**",
-    "tags": [
-      "**"
-    ]
-  },
-  {
     "id": "s050",
     "type": "signal",
     "title": "Escher's most mind-bending piece",
@@ -1054,27 +931,6 @@
       "np-complete-problems",
       "computer-science-education",
       "problem-solving"
-    ]
-  },
-  {
-    "id": "s052",
-    "type": "signal",
-    "title": "How (and why) to take a logarithm of an image",
-    "expert": "Andrej Karpathy",
-    "expert_slug": "andrej-karpathy",
-    "source_type": "video",
-    "source_url": "https://www.youtube.com/watch?v=ldxFjLJ3rVY",
-    "published": "2026-03-22",
-    "processed": "2026-04-18",
-    "domains": [
-      "ai-capabilities",
-      "ai-education",
-      "technical-ai"
-    ],
-    "thomas_lens": "(for an AI-native product leader repositioning their career):**",
-    "key_quote": "**\n[Unable to extract without transcript - likely discusses how mathematical transformations reveal the hidden geometric structure underlying Escher's impossible recursive artwork]\n\n**TAGS:**",
-    "tags": [
-      "**"
     ]
   },
   {
