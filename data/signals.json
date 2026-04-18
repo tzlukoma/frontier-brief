@@ -221,5 +221,89 @@
     "tags": [
       "ai-product"
     ]
+  },
+  {
+    "id": "s011",
+    "type": "signal",
+    "title": "\ud83e\udde0 Community Wisdom: Vibe coding as a team sport, teaching interviewers to surface real signal, what\u2019s missing from leadership offsites, and more",
+    "expert": "Lenny Rachitsky",
+    "expert_slug": "lenny-rachitsky",
+    "source_type": "newsletter",
+    "source_url": "https://www.lennysnewsletter.com/p/community-wisdom-vibe-coding-as-a",
+    "published": "2026-04-11",
+    "processed": "2026-04-18",
+    "domains": [
+      "ai-\u00d7-product",
+      "growth",
+      "pm-career"
+    ],
+    "thomas_lens": "I can see the article title and metadata, but the content provided is mostly HTML/CSS markup and schema definitions - not the actual article text. The substantive content appears to be cut off.\n\nTo generate the structured brief you're requesting, I need the actual article content about:\n- Vibe coding as a team sport\n- Teaching interviewers to surface real signal\n- What's missing from leadership of",
+    "key_quote": "Community Wisdom 181",
+    "tags": [
+      "ai-product"
+    ]
+  },
+  {
+    "id": "s012",
+    "type": "signal",
+    "title": "I built a custom Slack inbox. It was easier than you\u2019d think. | Yash Tekriwal (Clay)",
+    "expert": "Lenny Rachitsky",
+    "expert_slug": "lenny-rachitsky",
+    "source_type": "newsletter",
+    "source_url": "https://www.lennysnewsletter.com/p/i-built-a-custom-slack-inbox-it-was",
+    "published": "2026-04-08",
+    "processed": "2026-04-18",
+    "domains": [
+      "ai-\u00d7-product",
+      "growth",
+      "pm-career"
+    ],
+    "thomas_lens": "(for an AI-native product leader repositioning their career):**",
+    "key_quote": "**\n[Unable to extract - article body not included in provided content]\n\n**TAGS:**",
+    "tags": [
+      "**"
+    ]
+  },
+  {
+    "id": "s013",
+    "type": "signal",
+    "title": "Listen: A visual guide to getting out of a creative slump",
+    "expert": "Lenny Rachitsky",
+    "expert_slug": "lenny-rachitsky",
+    "source_type": "newsletter",
+    "source_url": "https://www.lennysnewsletter.com/p/listen-a-visual-guide-to-getting",
+    "published": "2026-04-08",
+    "processed": "2026-04-18",
+    "domains": [
+      "ai-\u00d7-product",
+      "growth",
+      "pm-career"
+    ],
+    "thomas_lens": "I cannot complete this analysis. The content provided contains only CSS styling, font declarations, and schema.org metadata\u2014not the actual article text.\n\nThe HTML source shows this is an audio edition of a Lenny Rachitsky newsletter post about creative slumps, but the substantive content isn't included.\n\nTo generate the brief, I need the actual article text. You can:\n1. Copy the full article text ",
+    "key_quote": "An audio edition of Lenny's Newsletter post",
+    "tags": [
+      "ai-product"
+    ]
+  },
+  {
+    "id": "s014",
+    "type": "signal",
+    "title": "A visual guide to getting out of a creative slump",
+    "expert": "Lenny Rachitsky",
+    "expert_slug": "lenny-rachitsky",
+    "source_type": "newsletter",
+    "source_url": "https://www.lennysnewsletter.com/p/a-visual-guide-to-getting-out-of",
+    "published": "2026-04-07",
+    "processed": "2026-04-18",
+    "domains": [
+      "ai-\u00d7-product",
+      "growth",
+      "pm-career"
+    ],
+    "thomas_lens": "I cannot complete this analysis because the content provided contains only HTML/CSS metadata and schema markup, not the actual article text about creative slumps.\n\nThe content field shows:\n- Font declarations and CSS styling\n- Schema.org structured data\n- Page metadata (title, author Michelle Rial, date 2026-04-07)\n\nBut no actual article paragraphs, visual guide content, or substantive text to ana",
+    "key_quote": "On creating work like a human (and all the feelings that come with it)",
+    "tags": [
+      "ai-product"
+    ]
   }
 ]
