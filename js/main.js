@@ -34,7 +34,14 @@ function renderSignals(signals, experts) {
 
   countEl && (countEl.textContent = `${signals.length} signals`);
 
-  container.innerHTML = signals.map(s => {
+  // Sort reverse chronological by processed date, then published
+  const sorted = [...signals].sort((a, b) => {
+    const da = new Date(a.processed || a.published || 0);
+    const db = new Date(b.processed || b.published || 0);
+    return db - da;
+  });
+
+  container.innerHTML = sorted.map(s => {
     const expert = expertMap[s.expert_slug] || {};
     const avatarColor = expert.avatar_color || '#6366f1';
     const initials    = expert.avatar_initials || s.expert.split(' ').map(w=>w[0]).join('').slice(0,2);
