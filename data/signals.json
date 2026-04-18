@@ -620,5 +620,105 @@
     "tags": [
       "**"
     ]
+  },
+  {
+    "id": "s030",
+    "type": "signal",
+    "title": "Focus, focus, focus!",
+    "expert": "Gibson Biddle",
+    "expert_slug": "gibson-biddle",
+    "source_type": "newsletter",
+    "source_url": "https://gibsonbiddle.substack.com/p/focus-focus-focus",
+    "published": "2021-04-08",
+    "processed": "2026-04-18",
+    "domains": [
+      "product-strategy",
+      "product-leadership"
+    ],
+    "thomas_lens": "(for an AI-native product leader repositioning their career):**",
+    "key_quote": "**\n\"I now have more than 4,000 subscribers for my 'Ask Gib' product newsletter, so I will focus all of my writing energy there.\"\n\n**TAGS:**",
+    "tags": [
+      "**"
+    ]
+  },
+  {
+    "id": "s031",
+    "type": "signal",
+    "title": "Check out my \"Ask Gib\" newsletter to read daily answers to product management questions.",
+    "expert": "Gibson Biddle",
+    "expert_slug": "gibson-biddle",
+    "source_type": "newsletter",
+    "source_url": "https://gibsonbiddle.substack.com/p/check-out-my-ask-gib-newsletter-to",
+    "published": "2020-12-24",
+    "processed": "2026-04-18",
+    "domains": [
+      "product-strategy",
+      "product-leadership"
+    ],
+    "thomas_lens": "(for an AI-native product leader repositioning their career):**",
+    "key_quote": "**\n\"In this 'Friends of Gib' newsletter, I write weekly essays about product management, leadership, and strategy. If you'd like to hear from me more often, subscribe to my new 'Ask Gib' newsletter, too.\"\n\n**TAGS:**",
+    "tags": [
+      "**"
+    ]
+  },
+  {
+    "id": "s032",
+    "type": "signal",
+    "title": "How to Balance Customer Delight and Profits",
+    "expert": "Gibson Biddle",
+    "expert_slug": "gibson-biddle",
+    "source_type": "newsletter",
+    "source_url": "https://gibsonbiddle.substack.com/p/how-to-delight-customers-in-hard",
+    "published": "2020-12-07",
+    "processed": "2026-04-18",
+    "domains": [
+      "product-strategy",
+      "product-leadership"
+    ],
+    "thomas_lens": "The content you've provided appears to be incomplete - it contains only HTML metadata and CSS styling, but not the actual article text. I can see from the schema that it's about \"Two Netflix cases illustrate how the DHM strategy model helps product leaders balance delight and margin,\" but I need the full article content to create the brief.\n\nCould you provide the complete article text, or would yo",
+    "key_quote": "Two Netflix cases illustrate how the DHM strategy model helps product leaders balance delight and margin,",
+    "tags": [
+      "ai-product"
+    ]
+  },
+  {
+    "id": "s033",
+    "type": "signal",
+    "title": "Why Won't Netflix Party?",
+    "expert": "Gibson Biddle",
+    "expert_slug": "gibson-biddle",
+    "source_type": "newsletter",
+    "source_url": "https://gibsonbiddle.substack.com/p/why-wont-netflix-party",
+    "published": "2020-12-01",
+    "processed": "2026-04-18",
+    "domains": [
+      "product-strategy",
+      "product-leadership"
+    ],
+    "thomas_lens": "(for an AI-native product leader repositioning their career):**",
+    "key_quote": "**\n[Unable to extract - full article content not provided]\n\n**TAGS:**",
+    "tags": [
+      "**"
+    ]
+  },
+  {
+    "id": "s034",
+    "type": "signal",
+    "title": "Product Strategy, Leadership, Management, and Culture",
+    "expert": "Gibson Biddle",
+    "expert_slug": "gibson-biddle",
+    "source_type": "newsletter",
+    "source_url": "https://gibsonbiddle.substack.com/p/coming-soon",
+    "published": "2020-12-01",
+    "processed": "2026-04-18",
+    "domains": [
+      "product-strategy",
+      "product-leadership"
+    ],
+    "thomas_lens": "I cannot generate a meaningful brief from this content. What you've provided appears to be mostly HTML markup, font declarations, and metadata from a \"coming-soon\" page rather than actual article content.\n\nThe only substantive information visible is:\n- Author: Gibson Biddle (former Netflix/Chegg VP/CPO)\n- Newsletter: \"Friends of Gib\" \n- General focus: Product Strategy, Leadership, Management, and ",
+    "key_quote": "coming-soon",
+    "tags": [
+      "ai-product"
+    ]
   }
 ]
