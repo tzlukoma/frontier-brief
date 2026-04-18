@@ -9,10 +9,17 @@
     "source_url": "https://www.lennysnewsletter.com/p/not-all-ai-agents-are-created-equal",
     "published": "2026-04-14",
     "processed": "2026-04-18",
-    "domains": ["ai-product", "product-management"],
-    "thomas_lens": "Most teams try to prioritize fundamentally different kinds of agents as if they were the same thing — using impact/effort matrices built for features, not systems. The real unlock: categorize by agent type first, then prioritize within type.",
+    "domains": [
+      "ai-product",
+      "product-management"
+    ],
+    "thomas_lens": "Most teams try to prioritize fundamentally different kinds of agents as if they were the same thing \u2014 using impact/effort matrices built for features, not systems. The real unlock: categorize by agent type first, then prioritize within type.",
     "key_quote": "The problem isn't that they lack ideas; it's that they try to prioritize fundamentally different kinds of systems as if they were the same thing.",
-    "tags": ["agents", "product-strategy", "ai-roadmap"]
+    "tags": [
+      "agents",
+      "product-strategy",
+      "ai-roadmap"
+    ]
   },
   {
     "id": "s002",
@@ -24,10 +31,18 @@
     "source_url": "https://shreyasdoshi.substack.com/p/why-product-sense-is-the-only-product",
     "published": "2026-03-05",
     "processed": "2026-04-18",
-    "domains": ["product-management", "ai-product", "career"],
-    "thomas_lens": "AI tools commoditize execution. What remains irreplaceable is judgment: reading customers, markets, and tradeoffs better than the AI can. For someone repositioning their career, this is the bet to make — not on tool fluency, but on sense.",
+    "domains": [
+      "product-management",
+      "ai-product",
+      "career"
+    ],
+    "thomas_lens": "AI tools commoditize execution. What remains irreplaceable is judgment: reading customers, markets, and tradeoffs better than the AI can. For someone repositioning their career, this is the bet to make \u2014 not on tool fluency, but on sense.",
     "key_quote": "Tools have never been a significant source of alpha in product success and that is not changing with AI tools.",
-    "tags": ["product-sense", "career", "ai-native-pm"]
+    "tags": [
+      "product-sense",
+      "career",
+      "ai-native-pm"
+    ]
   },
   {
     "id": "s003",
@@ -39,10 +54,19 @@
     "source_url": "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
     "published": "2026-03-31",
     "processed": "2026-04-18",
-    "domains": ["ai-ux", "ai-product", "ux-design"],
-    "thomas_lens": "The chatbot interface creates cognitive overhead that erodes the productivity gain of AI. This is a UX problem masquerading as an AI capability problem — and it's wide open. The PMs who see this clearly will build the right interfaces.",
+    "domains": [
+      "ai-ux",
+      "ai-product",
+      "ux-design"
+    ],
+    "thomas_lens": "The chatbot interface creates cognitive overhead that erodes the productivity gain of AI. This is a UX problem masquerading as an AI capability problem \u2014 and it's wide open. The PMs who see this clearly will build the right interfaces.",
     "key_quote": "The AI presented information in a way that completely overwhelmed people: giant walls of text, offers to pursue new topics, and sprawling discussions. The chatbot interface appeared to be the obstacle, not the work.",
-    "tags": ["ai-ux", "interface-design", "cognitive-load", "ai-product"]
+    "tags": [
+      "ai-ux",
+      "interface-design",
+      "cognitive-load",
+      "ai-product"
+    ]
   },
   {
     "id": "s004",
@@ -54,10 +78,17 @@
     "source_url": "https://www.svpg.com/build-to-learn-vs-build-to-earn/",
     "published": "2026-04-16",
     "processed": "2026-04-18",
-    "domains": ["product-management", "product-strategy"],
-    "thomas_lens": "A foundational tension in any roadmap, made sharper by AI. When AI can build faster, the cost of 'build to learn' drops — which means teams that still treat every build like a revenue bet are leaving discovery value on the table.",
+    "domains": [
+      "product-management",
+      "product-strategy"
+    ],
+    "thomas_lens": "A foundational tension in any roadmap, made sharper by AI. When AI can build faster, the cost of 'build to learn' drops \u2014 which means teams that still treat every build like a revenue bet are leaving discovery value on the table.",
     "key_quote": "The distinction between building to learn and building to earn is one of the most important and least understood in product work.",
-    "tags": ["product-strategy", "discovery", "roadmap"]
+    "tags": [
+      "product-strategy",
+      "discovery",
+      "roadmap"
+    ]
   },
   {
     "id": "s005",
@@ -69,10 +100,19 @@
     "source_url": "https://uxdesign.cc/vibe-coding-is-accelerating-the-erosion-of-design-authority-4dc21b233606",
     "published": "2026-04-13",
     "processed": "2026-04-18",
-    "domains": ["ux-design", "ai-ux", "design-practice"],
+    "domains": [
+      "ux-design",
+      "ai-ux",
+      "design-practice"
+    ],
     "thomas_lens": "The excitement is real but the gap is also real: 'something that looks finished' is not 'something that is finished.' As someone who bridges UX and front-end, this is both a threat (design devalued) and an opportunity (be the person who closes the gap).",
     "key_quote": "The excitement surrounding these tools does not come from the design itself. It comes from the collapse of the distance between description and interaction.",
-    "tags": ["vibe-coding", "design-authority", "ai-ux", "front-end"]
+    "tags": [
+      "vibe-coding",
+      "design-authority",
+      "ai-ux",
+      "front-end"
+    ]
   },
   {
     "id": "s006",
@@ -84,9 +124,42 @@
     "source_url": "https://www.producttalk.org/building-todoist-ramble-how-doist-turned-voice-braindumps-into-real-time-task-capture/",
     "published": "2026-04-16",
     "processed": "2026-04-18",
-    "domains": ["product-management", "ai-product", "product-discovery"],
+    "domains": [
+      "product-management",
+      "ai-product",
+      "product-discovery"
+    ],
     "thomas_lens": "A clean case study of AI-native product thinking: start with a real friction point (capture during motion), use AI to solve the right part of the problem (parsing intent from voice), ship small. The pattern matters more than the specific feature.",
-    "key_quote": "Continuous discovery isn't about running more research — it's about building faster feedback loops into how you work.",
-    "tags": ["continuous-discovery", "ai-product", "case-study", "voice-ui"]
+    "key_quote": "Continuous discovery isn't about running more research \u2014 it's about building faster feedback loops into how you work.",
+    "tags": [
+      "continuous-discovery",
+      "ai-product",
+      "case-study",
+      "voice-ui"
+    ]
+  },
+  {
+    "id": "s007",
+    "type": "signal",
+    "title": "How to Balance Customer Delight and Profits",
+    "expert": "Gibson Biddle",
+    "expert_slug": "gibson-biddle",
+    "source_type": "article",
+    "source_url": "https://gibsonbiddle.substack.com/p/how-to-delight-customers-in-hard",
+    "published": "2020-12-07",
+    "processed": "2026-04-18",
+    "domains": [
+      "product-strategy",
+      "product-leadership"
+    ],
+    "thomas_lens": "AI product leaders face identical trade-offs: when to invest in inference costs for better responses vs. margin, or when losing revenue builds defensible moats (proprietary training data, user trust, personalization networks). The framework forces quantification of \"delight\" through retention metrics and distinguishes between what users request versus what actually changes their behavior. As AI products scale, the calculus shifts\u2014what's unaffordable at 1M users becomes strategically obvious at 1",
+    "key_quote": "What customers say doesn't always match their behavior. You need A/B testing to measure behavior change.",
+    "tags": [
+      "product-strategy",
+      "retention-metrics",
+      "customer-delight",
+      "ab-testing",
+      "margin-optimization"
+    ]
   }
 ]
