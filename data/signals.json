@@ -515,5 +515,110 @@
     "tags": [
       "ai-product"
     ]
+  },
+  {
+    "id": "s025",
+    "type": "signal",
+    "title": "Time Management: a deep dive",
+    "expert": "Shreyas Doshi",
+    "expert_slug": "shreyas-doshi",
+    "source_type": "newsletter",
+    "source_url": "https://shreyasdoshi.substack.com/p/time-management-a-deep-dive",
+    "published": "2026-01-03",
+    "processed": "2026-04-18",
+    "domains": [
+      "product-leadership",
+      "ai-\u00d7-pm",
+      "career"
+    ],
+    "thomas_lens": "I can see the article metadata, but the actual content appears to be cut off - I only received the HTML/CSS styling and schema markup, not the substantive article text about time management.\n\nTo create the structured brief you requested, I need the actual article content (the paragraphs, frameworks, and ideas that Shreyas Doshi discusses about time management).\n\nCould you provide the full article ",
+    "key_quote": "Managing my time has been a constant struggle in my life. Here's a deep dive on the advanced ideas I've seen work. See if it helps with your experimentation.",
+    "tags": [
+      "ai-product"
+    ]
+  },
+  {
+    "id": "s026",
+    "type": "signal",
+    "title": "Everything isn\u2018t meant for everyone.",
+    "expert": "Shreyas Doshi",
+    "expert_slug": "shreyas-doshi",
+    "source_type": "newsletter",
+    "source_url": "https://shreyasdoshi.substack.com/p/everything-isnt-meant-for-everyone",
+    "published": "2026-01-02",
+    "processed": "2026-04-18",
+    "domains": [
+      "product-leadership",
+      "ai-\u00d7-pm",
+      "career"
+    ],
+    "thomas_lens": "I need permission to fetch the article content. The text you provided is mostly CSS and metadata - the actual article body is cut off. \n\nCould you either:\n1. Approve the WebFetch permission request so I can retrieve the full article, or\n2. Paste the complete article text directly?\n\nI need the actual content to create an accurate structured brief with specific quotes and arguments.",
+    "key_quote": "As you create (and consume) in 2026, keep this simple but often overlooked principle in mind.",
+    "tags": [
+      "ai-product"
+    ]
+  },
+  {
+    "id": "s027",
+    "type": "signal",
+    "title": "10 ideas for 2026",
+    "expert": "Shreyas Doshi",
+    "expert_slug": "shreyas-doshi",
+    "source_type": "newsletter",
+    "source_url": "https://shreyasdoshi.substack.com/p/10-ideas-for-2026",
+    "published": "2025-12-30",
+    "processed": "2026-04-18",
+    "domains": [
+      "product-leadership",
+      "ai-\u00d7-pm",
+      "career"
+    ],
+    "thomas_lens": "I need the actual article content to create your brief. What you've shared is mostly the webpage's CSS styling and metadata. \n\nI can see from the metadata that:\n- **Title**: \"10 ideas for 2026\" by Shreyas Doshi\n- **Description**: \"Thinking is the foundation of everything we do and, for most of us that foundation has many cracks. Here are 10 ideas to consider in 2026.\"\n\nBut the actual 10 ideas and ",
+    "key_quote": "10 ideas for 2026",
+    "tags": [
+      "ai-product"
+    ]
+  },
+  {
+    "id": "s028",
+    "type": "signal",
+    "title": "Is Writing Really Thinking: a deep-dive",
+    "expert": "Shreyas Doshi",
+    "expert_slug": "shreyas-doshi",
+    "source_type": "newsletter",
+    "source_url": "https://shreyasdoshi.substack.com/p/is-writing-really-thinking-a-deep",
+    "published": "2025-12-27",
+    "processed": "2026-04-18",
+    "domains": [
+      "product-leadership",
+      "ai-\u00d7-pm",
+      "career"
+    ],
+    "thomas_lens": "I need the actual article content to create your brief. What you've provided is mostly HTML/CSS styling code rather than the article text.\n\nCould you either:\n1. Share the article's main text content, or\n2. Let me fetch it directly from the URL using WebFetch?\n\nI can see from the metadata that the article argues \"writing is thinking\" is an important but overextended truth, but I need the full conte",
+    "key_quote": "writing is thinking",
+    "tags": [
+      "ai-product"
+    ]
+  },
+  {
+    "id": "s029",
+    "type": "signal",
+    "title": "The Problem with Peer-reviewed Studies on Human Behavior (and a Wiser Solution)",
+    "expert": "Shreyas Doshi",
+    "expert_slug": "shreyas-doshi",
+    "source_type": "newsletter",
+    "source_url": "https://shreyasdoshi.substack.com/p/the-problem-with-peer-reviewed-studies",
+    "published": "2025-12-26",
+    "processed": "2026-04-18",
+    "domains": [
+      "product-leadership",
+      "ai-\u00d7-pm",
+      "career"
+    ],
+    "thomas_lens": "(for an AI-native product leader repositioning their career):**",
+    "key_quote": "**\n\"Peer-reviewed research on human psychology & behavior explains averages and correlations and it doesn't say much about its applicability to you specifically. So, think for yourself.\"\n\n**TAGS:**",
+    "tags": [
+      "**"
+    ]
   }
 ]
