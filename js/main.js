@@ -48,7 +48,10 @@ function renderSignals(signals, experts) {
     const initials    = expert.avatar_initials || s.expert.split(' ').map(w=>w[0]).join('').slice(0,2);
 
     return `
-    <article class="signal-card" onclick="window.open('${s.source_url}', '_blank')" role="link" tabindex="0">
+    <article class="signal-card" 
+      data-domains="${s.domains ? s.domains.join(' ') : ''}" 
+      data-tags="${s.tags ? s.tags.join(' ') : ''}"
+      onclick="window.open('${s.source_url}', '_blank')" role="link" tabindex="0">
       <div class="signal-meta">
         <div class="expert-chip">
           <div class="expert-avatar" style="background:${avatarColor}">${initials}</div>
@@ -287,3 +290,52 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 });
+
+// ── Domain Filter ──────────────────────────────────────────────
+const DOMAIN_MAP = {
+  'ai-product':        ['ai-product','ai × product','product-management','ai-strategy','ai-macro','product-vision','product-strategy','product-leadership','product-ops','product-discovery','cpo-level','outcome-driven'],
+  'ux':                ['ux-design','ai-ux','ux × ai','design-practice','design-systems','design-strategy','inclusive-design','emerging-ux','ux-engineering','frontend','front-end'],
+  'fintech':           ['fintech','payments','banking','ai × finance','financial-infrastructure','venture','industry-signal'],
+  'product-leadership':['product-leadership','leadership','career','product-ops','cpo-level','ai-teams','growth'],
+  'ai-capabilities':   ['ai-capabilities','technical-ai','ai-education','ai-tools','ai-practice','ai-work','ai-orgs','research'],
+};
+
+let _activeFilter = 'all';
+
+function initFilters() {
+  document.querySelectorAll('.filter-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      _activeFilter = btn.dataset.domain;
+      applyFilter();
+    });
+  });
+}
+
+function applyFilter() {
+  const cards = document.querySelectorAll('.signal-card');
+  cards.forEach(card => {
+    if (_activeFilter === 'all') {
+      card.style.display = '';
+      return;
+    }
+    const keywords = DOMAIN_MAP[_activeFilter] || [];
+    const cardDomains = (card.dataset.domains || '').toLowerCase();
+    const cardTags    = (card.dataset.tags || '').toLowerCase();
+    const matches = keywords.some(k => cardDomains.includes(k) || cardTags.includes(k));
+    card.style.display = matches ? '' : 'none';
+  });
+
+  // Update count
+  const visible = document.querySelectorAll('.signal-card:not([style*="none"])').length;
+  const countEl = document.getElementById('signals-count');
+  if (countEl) {
+    const total = _allSignals.length;
+    countEl.textContent = _activeFilter === 'all'
+      ? `${total} signals`
+      : `${visible} of ${total} signals`;
+  }
+}
+
+document.addEventListener('DOMContentLoaded', initFilters);
