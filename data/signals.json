@@ -139,27 +139,6 @@
     ]
   },
   {
-    "id": "s007",
-    "type": "signal",
-    "title": "Listen: Not all AI agents are created equal",
-    "expert": "Lenny Rachitsky",
-    "expert_slug": "lenny-rachitsky",
-    "source_type": "newsletter",
-    "source_url": "https://www.lennysnewsletter.com/p/listen-not-all-ai-agents-are-created",
-    "published": "2026-04-15",
-    "processed": "2026-04-18",
-    "domains": [
-      "ai-\u00d7-product",
-      "growth",
-      "pm-career"
-    ],
-    "thomas_lens": "I cannot generate the brief because the provided content only includes HTML/CSS markup and metadata, not the actual article text. The substantive content discussing AI agents is missing.\n\nTo complete this analysis, I need the actual article content - the paragraphs, arguments, and quotes from Lenny Rachitsky's piece about AI agents.\n\nWould you like me to:\n1. Fetch the article content from the URL ",
-    "key_quote": "An audio edition of Lenny's Newsletter post",
-    "tags": [
-      "ai-product"
-    ]
-  },
-  {
     "id": "s008",
     "type": "signal",
     "title": "\ud83c\udf99\ufe0f This week on How I AI: Claude Cowork tutorial for non-engineers + Build your own Slack inbox (for $0)",
