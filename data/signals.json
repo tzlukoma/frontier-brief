@@ -9,10 +9,17 @@
     "source_url": "https://www.lennysnewsletter.com/p/not-all-ai-agents-are-created-equal",
     "published": "2026-04-14",
     "processed": "2026-04-18",
-    "domains": ["ai-product", "product-management"],
-    "thomas_lens": "Most teams try to prioritize fundamentally different kinds of agents as if they were the same thing — using impact/effort matrices built for features, not systems. The real unlock: categorize by agent type first, then prioritize within type.",
+    "domains": [
+      "ai-product",
+      "product-management"
+    ],
+    "thomas_lens": "Most teams try to prioritize fundamentally different kinds of agents as if they were the same thing \u2014 using impact/effort matrices built for features, not systems. The real unlock: categorize by agent type first, then prioritize within type.",
     "key_quote": "The problem isn't that they lack ideas; it's that they try to prioritize fundamentally different kinds of systems as if they were the same thing.",
-    "tags": ["agents", "product-strategy", "ai-roadmap"]
+    "tags": [
+      "agents",
+      "product-strategy",
+      "ai-roadmap"
+    ]
   },
   {
     "id": "s002",
@@ -24,10 +31,18 @@
     "source_url": "https://shreyasdoshi.substack.com/p/why-product-sense-is-the-only-product",
     "published": "2026-03-05",
     "processed": "2026-04-18",
-    "domains": ["product-management", "ai-product", "career"],
-    "thomas_lens": "AI tools commoditize execution. What remains irreplaceable is judgment: reading customers, markets, and tradeoffs better than the AI can. For someone repositioning their career, this is the bet to make — not on tool fluency, but on sense.",
+    "domains": [
+      "product-management",
+      "ai-product",
+      "career"
+    ],
+    "thomas_lens": "AI tools commoditize execution. What remains irreplaceable is judgment: reading customers, markets, and tradeoffs better than the AI can. For someone repositioning their career, this is the bet to make \u2014 not on tool fluency, but on sense.",
     "key_quote": "Tools have never been a significant source of alpha in product success and that is not changing with AI tools.",
-    "tags": ["product-sense", "career", "ai-native-pm"]
+    "tags": [
+      "product-sense",
+      "career",
+      "ai-native-pm"
+    ]
   },
   {
     "id": "s003",
@@ -39,10 +54,19 @@
     "source_url": "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
     "published": "2026-03-31",
     "processed": "2026-04-18",
-    "domains": ["ai-ux", "ai-product", "ux-design"],
-    "thomas_lens": "The chatbot interface creates cognitive overhead that erodes the productivity gain of AI. This is a UX problem masquerading as an AI capability problem — and it's wide open. The PMs who see this clearly will build the right interfaces.",
+    "domains": [
+      "ai-ux",
+      "ai-product",
+      "ux-design"
+    ],
+    "thomas_lens": "The chatbot interface creates cognitive overhead that erodes the productivity gain of AI. This is a UX problem masquerading as an AI capability problem \u2014 and it's wide open. The PMs who see this clearly will build the right interfaces.",
     "key_quote": "The AI presented information in a way that completely overwhelmed people: giant walls of text, offers to pursue new topics, and sprawling discussions. The chatbot interface appeared to be the obstacle, not the work.",
-    "tags": ["ai-ux", "interface-design", "cognitive-load", "ai-product"]
+    "tags": [
+      "ai-ux",
+      "interface-design",
+      "cognitive-load",
+      "ai-product"
+    ]
   },
   {
     "id": "s004",
@@ -54,10 +78,17 @@
     "source_url": "https://www.svpg.com/build-to-learn-vs-build-to-earn/",
     "published": "2026-04-16",
     "processed": "2026-04-18",
-    "domains": ["product-management", "product-strategy"],
-    "thomas_lens": "A foundational tension in any roadmap, made sharper by AI. When AI can build faster, the cost of 'build to learn' drops — which means teams that still treat every build like a revenue bet are leaving discovery value on the table.",
+    "domains": [
+      "product-management",
+      "product-strategy"
+    ],
+    "thomas_lens": "A foundational tension in any roadmap, made sharper by AI. When AI can build faster, the cost of 'build to learn' drops \u2014 which means teams that still treat every build like a revenue bet are leaving discovery value on the table.",
     "key_quote": "The distinction between building to learn and building to earn is one of the most important and least understood in product work.",
-    "tags": ["product-strategy", "discovery", "roadmap"]
+    "tags": [
+      "product-strategy",
+      "discovery",
+      "roadmap"
+    ]
   },
   {
     "id": "s005",
@@ -69,10 +100,19 @@
     "source_url": "https://uxdesign.cc/vibe-coding-is-accelerating-the-erosion-of-design-authority-4dc21b233606",
     "published": "2026-04-13",
     "processed": "2026-04-18",
-    "domains": ["ux-design", "ai-ux", "design-practice"],
+    "domains": [
+      "ux-design",
+      "ai-ux",
+      "design-practice"
+    ],
     "thomas_lens": "The excitement is real but the gap is also real: 'something that looks finished' is not 'something that is finished.' As someone who bridges UX and front-end, this is both a threat (design devalued) and an opportunity (be the person who closes the gap).",
     "key_quote": "The excitement surrounding these tools does not come from the design itself. It comes from the collapse of the distance between description and interaction.",
-    "tags": ["vibe-coding", "design-authority", "ai-ux", "front-end"]
+    "tags": [
+      "vibe-coding",
+      "design-authority",
+      "ai-ux",
+      "front-end"
+    ]
   },
   {
     "id": "s006",
@@ -84,9 +124,102 @@
     "source_url": "https://www.producttalk.org/building-todoist-ramble-how-doist-turned-voice-braindumps-into-real-time-task-capture/",
     "published": "2026-04-16",
     "processed": "2026-04-18",
-    "domains": ["product-management", "ai-product", "product-discovery"],
+    "domains": [
+      "product-management",
+      "ai-product",
+      "product-discovery"
+    ],
     "thomas_lens": "A clean case study of AI-native product thinking: start with a real friction point (capture during motion), use AI to solve the right part of the problem (parsing intent from voice), ship small. The pattern matters more than the specific feature.",
-    "key_quote": "Continuous discovery isn't about running more research — it's about building faster feedback loops into how you work.",
-    "tags": ["continuous-discovery", "ai-product", "case-study", "voice-ui"]
+    "key_quote": "Continuous discovery isn't about running more research \u2014 it's about building faster feedback loops into how you work.",
+    "tags": [
+      "continuous-discovery",
+      "ai-product",
+      "case-study",
+      "voice-ui"
+    ]
+  },
+  {
+    "id": "s007",
+    "type": "signal",
+    "title": "Listen: Not all AI agents are created equal",
+    "expert": "Lenny Rachitsky",
+    "expert_slug": "lenny-rachitsky",
+    "source_type": "newsletter",
+    "source_url": "https://www.lennysnewsletter.com/p/listen-not-all-ai-agents-are-created",
+    "published": "2026-04-15",
+    "processed": "2026-04-18",
+    "domains": [
+      "ai-\u00d7-product",
+      "growth",
+      "pm-career"
+    ],
+    "thomas_lens": "I cannot generate the brief because the provided content only includes HTML/CSS markup and metadata, not the actual article text. The substantive content discussing AI agents is missing.\n\nTo complete this analysis, I need the actual article content - the paragraphs, arguments, and quotes from Lenny Rachitsky's piece about AI agents.\n\nWould you like me to:\n1. Fetch the article content from the URL ",
+    "key_quote": "An audio edition of Lenny's Newsletter post",
+    "tags": [
+      "ai-product"
+    ]
+  },
+  {
+    "id": "s008",
+    "type": "signal",
+    "title": "\ud83c\udf99\ufe0f This week on How I AI: Claude Cowork tutorial for non-engineers + Build your own Slack inbox (for $0)",
+    "expert": "Lenny Rachitsky",
+    "expert_slug": "lenny-rachitsky",
+    "source_type": "newsletter",
+    "source_url": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-claude-cowork",
+    "published": "2026-04-13",
+    "processed": "2026-04-18",
+    "domains": [
+      "ai-\u00d7-product",
+      "growth",
+      "pm-career"
+    ],
+    "thomas_lens": "I can't generate an accurate brief from this input. The content is truncated - I'm only seeing HTML markup, CSS definitions, and schema data, not the actual article text.\n\nThe page appears to be about:\n- Claude Cowork tutorial for non-engineers\n- Building a Slack inbox for $0\n- Part of Lenny's \"How I AI\" podcast series\n\nTo analyze this properly, I need the actual article content. Could you:\n\n1. Tr",
+    "key_quote": "How I AI",
+    "tags": [
+      "ai-product"
+    ]
+  },
+  {
+    "id": "s009",
+    "type": "signal",
+    "title": "Claude Cowork 101: How to automate your workday without touching code | JJ Englert (Tenex)",
+    "expert": "Lenny Rachitsky",
+    "expert_slug": "lenny-rachitsky",
+    "source_type": "newsletter",
+    "source_url": "https://www.lennysnewsletter.com/p/claude-cowork-101-how-to-automate",
+    "published": "2026-04-13",
+    "processed": "2026-04-18",
+    "domains": [
+      "ai-\u00d7-product",
+      "growth",
+      "pm-career"
+    ],
+    "thomas_lens": "I need permission to fetch the article content. The text you provided is mostly HTML metadata. Could you either:\n\n1. **Approve the WebFetch request** so I can retrieve the full article, or\n2. **Provide the actual article text** (copy/paste from the page)\n\nThe schema markup shows this is about JJ Englert demonstrating Claude Cowork for automating emails, Slack, and planning without code, but I need",
+    "key_quote": "Watch now | &#127897;&#65039; JJ Englert (Tenex) shows how to go from zero to one with Claude Cowork&#8212;connecting your business tools and creating AI skills that automate emails, Slack, and daily ",
+    "tags": [
+      "ai-product"
+    ]
+  },
+  {
+    "id": "s010",
+    "type": "signal",
+    "title": "Hard truths about building in the AI era | Keith Rabois (Khosla Ventures)",
+    "expert": "Lenny Rachitsky",
+    "expert_slug": "lenny-rachitsky",
+    "source_type": "newsletter",
+    "source_url": "https://www.lennysnewsletter.com/p/hard-truths-about-building-in-the-ai-era",
+    "published": "2026-04-12",
+    "processed": "2026-04-18",
+    "domains": [
+      "ai-\u00d7-product",
+      "growth",
+      "pm-career"
+    ],
+    "thomas_lens": "The content provided is mostly HTML/CSS markup without the actual article text. I can see the title and description (\"Keith Rabois explains his 'barrels vs. ammunition' hiring framework, why talking to customers harms consumer products, how AI is collapsing PM, and more\"), but I need the actual article content to create the brief.\n\nWould you like me to fetch the full article from the URL using Web",
+    "key_quote": "Keith Rabois explains his 'barrels vs. ammunition' hiring framework, why talking to customers harms consumer products, how AI is collapsing PM, and more",
+    "tags": [
+      "ai-product"
+    ]
   }
 ]
