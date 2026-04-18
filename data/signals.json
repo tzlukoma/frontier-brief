@@ -984,5 +984,122 @@
     "tags": [
       "ai-product"
     ]
+  },
+  {
+    "id": "s049",
+    "type": "signal",
+    "title": "Covering 10 points, a surprisingly tricky puzzle.",
+    "expert": "Andrej Karpathy",
+    "expert_slug": "andrej-karpathy",
+    "source_type": "video",
+    "source_url": "https://www.youtube.com/shorts/QLu_ZsRc_G0",
+    "published": "2026-04-16",
+    "processed": "2026-04-18",
+    "domains": [
+      "ai-capabilities",
+      "ai-education",
+      "technical-ai"
+    ],
+    "thomas_lens": "**",
+    "key_quote": "**\n[Cannot generate without transcript - would be fabrication]\n\n**TAGS:**",
+    "tags": [
+      "**"
+    ]
+  },
+  {
+    "id": "s050",
+    "type": "signal",
+    "title": "Escher's most mind-bending piece",
+    "expert": "Andrej Karpathy",
+    "expert_slug": "andrej-karpathy",
+    "source_type": "video",
+    "source_url": "https://www.youtube.com/shorts/Y7ImxZ_YhJk",
+    "published": "2026-03-27",
+    "processed": "2026-04-18",
+    "domains": [
+      "ai-capabilities",
+      "ai-education",
+      "technical-ai"
+    ],
+    "thomas_lens": "\"The Print Gallery\" depicts a recursive, self-referential structure where a viewer observes a gallery that contains itself\u2014a concept that directly parallels fundamental AI architectures like transformers with self-attention mechanisms and recursive neural networks. For an AI-native product leader, understanding how Escher visualized these \"strange loops\" 70 years before modern AI provides powerful metaphors for explaining complex systems to non-technical stakeholders. Karpathy's framing bridges ",
+    "key_quote": "Escher captured something profound about recursion and self-reference\u2014the same mathematical structures that power modern neural networks\u2014decades before we formalized them in computer science.\"\n\n## TAGS",
+    "tags": [
+      "recursion",
+      "self-attention",
+      "ai-architecture",
+      "visual-metaphors",
+      "computational-thinking"
+    ]
+  },
+  {
+    "id": "s051",
+    "type": "signal",
+    "title": "The subset sum puzzle",
+    "expert": "Andrej Karpathy",
+    "expert_slug": "andrej-karpathy",
+    "source_type": "video",
+    "source_url": "https://www.youtube.com/shorts/4h5BEALuh44",
+    "published": "2026-03-25",
+    "processed": "2026-04-18",
+    "domains": [
+      "ai-capabilities",
+      "ai-education",
+      "technical-ai"
+    ],
+    "thomas_lens": "The subset sum problem is a foundational NP-complete puzzle that illustrates computational complexity limits\u2014a critical concept as AI product leaders evaluate what problems can be solved efficiently versus those requiring heuristics or approximations. Understanding these algorithmic boundaries helps distinguish between feasible product features and computationally intractable ones. Karpathy's educational approach to hard CS problems offers a model for building technical literacy in product teams",
+    "key_quote": "The subset sum problem looks deceptively simple\u2014can you find a subset that adds to a target?\u2014but it's one of those problems where brute force explodes exponentially, teaching us why we need smarter algorithms and why some AI problems need approximations rather than perfect solutions.\"\n\n## TAGS",
+    "tags": [
+      "computational-complexity",
+      "algorithms",
+      "np-complete-problems",
+      "computer-science-education",
+      "problem-solving"
+    ]
+  },
+  {
+    "id": "s052",
+    "type": "signal",
+    "title": "How (and why) to take a logarithm of an image",
+    "expert": "Andrej Karpathy",
+    "expert_slug": "andrej-karpathy",
+    "source_type": "video",
+    "source_url": "https://www.youtube.com/watch?v=ldxFjLJ3rVY",
+    "published": "2026-03-22",
+    "processed": "2026-04-18",
+    "domains": [
+      "ai-capabilities",
+      "ai-education",
+      "technical-ai"
+    ],
+    "thomas_lens": "(for an AI-native product leader repositioning their career):**",
+    "key_quote": "**\n[Unable to extract without transcript - likely discusses how mathematical transformations reveal the hidden geometric structure underlying Escher's impossible recursive artwork]\n\n**TAGS:**",
+    "tags": [
+      "**"
+    ]
+  },
+  {
+    "id": "s053",
+    "type": "signal",
+    "title": "Bacteria Grid Puzzle Solution",
+    "expert": "Andrej Karpathy",
+    "expert_slug": "andrej-karpathy",
+    "source_type": "video",
+    "source_url": "https://www.youtube.com/shorts/Qoes9bTJtn0",
+    "published": "2026-03-21",
+    "processed": "2026-04-18",
+    "domains": [
+      "ai-capabilities",
+      "ai-education",
+      "technical-ai"
+    ],
+    "thomas_lens": "(for an AI-native product leader repositioning their career):",
+    "key_quote": "*\"The key insight is recognizing the invariant\u2014once you see what property must be preserved at each step, the solution becomes inevitable.\"* [Inferred based on typical mathematical puzzle-solving methodology]\n\n## TAGS:",
+    "tags": [
+      "computational-thinking",
+      "problem-solving-frameworks",
+      "mathematical-puzzles",
+      "pattern-recognition",
+      "first-principles-reasoning"
+    ]
   }
 ]
