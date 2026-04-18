@@ -222,6 +222,24 @@ function closeSidebar() {
   document.body.style.overflow = '';
 }
 
+// ── Latest Post (Dynamic Home) ───────────────────────────────
+async function showLatestPost() {
+  try {
+    const res = await fetch('data/posts.json?v=' + CACHE_BUST);
+    const posts = await res.json();
+    if (posts && posts.length) {
+      const latest = posts[0];
+      const el = document.querySelector('.latest-post');
+      if (el) {
+        el.innerHTML = `<span style="font-weight:600; color:var(--accent);">Latest:</span>
+          <a href="posts/${latest.slug}.html" style="font-weight:600; color:var(--accent); text-decoration:underline;">${latest.title}</a>
+          <span style="margin-left:0.5em; color:var(--muted); font-size:0.95em;">(${latest.date})</span>`;
+        el.style.display = '';
+      }
+    }
+  } catch {}
+}
+
 // ── Init ──────────────────────────────────────────────────────
 async function init() {
   try {
@@ -251,7 +269,7 @@ async function init() {
   }
 }
 
-document.addEventListener('DOMContentLoaded', init);
+document.addEventListener('DOMContentLoaded', () => { init(); showLatestPost(); });
 
 document.addEventListener('keydown', (e) => {
   if (e.key === 'Escape') closeSidebar();
