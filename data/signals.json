@@ -720,5 +720,85 @@
     "tags": [
       "ai-product"
     ]
+  },
+  {
+    "id": "s035",
+    "type": "signal",
+    "title": "Commercial vs Internal Products",
+    "expert": "Marty Cagan",
+    "expert_slug": "marty-cagan",
+    "source_type": "article",
+    "source_url": "https://www.svpg.com/commercial-vs-internal-products/",
+    "published": "2026-04-09",
+    "processed": "2026-04-18",
+    "domains": [
+      "product-management",
+      "product-leadership"
+    ],
+    "thomas_lens": "I need permission to fetch the article. Alternatively, could you copy and paste the actual article text? The content you provided contains only webpage code, not the article itself.",
+    "key_quote": "Internal Products Are Hard; Commercial Products Are Harder We have spent a lot of time trying to convince product people and especially product leaders of the importance of internal products. We\u2019re ta",
+    "tags": [
+      "ai-product"
+    ]
+  },
+  {
+    "id": "s036",
+    "type": "signal",
+    "title": "Product Coaching and AI",
+    "expert": "Marty Cagan",
+    "expert_slug": "marty-cagan",
+    "source_type": "article",
+    "source_url": "https://www.svpg.com/product-coaching-and-ai/",
+    "published": "2026-02-04",
+    "processed": "2026-04-18",
+    "domains": [
+      "product-management",
+      "product-leadership"
+    ],
+    "thomas_lens": "The content you provided appears to be mostly HTML metadata and page structure rather than the actual article text. I need to fetch the full article to analyze it properly. \n\nCould you either:\n1. Grant permission for me to fetch the article from the URL, or\n2. Paste the actual article content (the body text with Marty Cagan's arguments and recommendations)\n\nWithout the actual article content, I ca",
+    "key_quote": "This article represents a significant change to what we have been advocating for the past two decades.&#160; But hopefully you will agree it is necessary, and that it also represents a substantial ste",
+    "tags": [
+      "ai-product"
+    ]
+  },
+  {
+    "id": "s037",
+    "type": "signal",
+    "title": "The Product Model at Google",
+    "expert": "Marty Cagan",
+    "expert_slug": "marty-cagan",
+    "source_type": "article",
+    "source_url": "https://www.svpg.com/the-product-model-at-google/",
+    "published": "2025-12-19",
+    "processed": "2026-04-18",
+    "domains": [
+      "product-management",
+      "product-leadership"
+    ],
+    "thomas_lens": "I need your permission to fetch the article content from the web. Please approve the WebFetch request so I can analyze the actual article text and provide the structured brief you requested.",
+    "key_quote": "By Marty Cagan and Elias Lieberich&#160; Marty\u2019s Note:&#160; Recently I co-authored articles on The Product Model at Spotify, and The Product Model at Amazon.&#160; In this article, we hope to do the ",
+    "tags": [
+      "ai-product"
+    ]
+  },
+  {
+    "id": "s038",
+    "type": "signal",
+    "title": "Stakeholders and the Product Model",
+    "expert": "Marty Cagan",
+    "expert_slug": "marty-cagan",
+    "source_type": "article",
+    "source_url": "https://www.svpg.com/stakeholders-and-the-product-model/",
+    "published": "2025-12-01",
+    "processed": "2026-04-18",
+    "domains": [
+      "product-management",
+      "product-leadership"
+    ],
+    "thomas_lens": "I need to fetch the article content from the URL to provide a proper analysis. The content you provided appears to be mostly HTML/CSS/JavaScript scaffolding without the actual article text.\n\nCould you either:\n1. Grant permission for the WebFetch tool so I can retrieve the article\n2. Or provide the actual article body text (not the HTML code)\n\nThe metadata shows it's a 1,725-word article by Marty C",
+    "key_quote": "By Chris Jones and Marty Cagan Moving to the product operating model is about moving from shipping roadmaps of features (output), to solving problems for your customers and your business, as measured ",
+    "tags": [
+      "ai-product"
+    ]
   }
 ]
