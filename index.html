@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Frontier Brief — Thomas Lukoma</title>
+  <meta name="description" content="Thomas Lukoma's ongoing synthesis at the intersection of AI, Product Management, and UX Design. Working out loud on a career at the frontier.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- ── Header ─────────────────────────────────────────────── -->
+  <header class="site-header">
+    <div class="container">
+      <div class="header-inner">
+        <div class="logo">
+          <span class="logo-publication">The Frontier Brief</span>
+          <span class="logo-name">Thomas Lukoma</span>
+        </div>
+        <nav class="header-nav">
+          <a href="#signals" class="active">Signals</a>
+          <a href="#experts">Experts</a>
+          <a href="about.html">About</a>
+        </nav>
+        <div class="live-dot">Live feed</div>
+      </div>
+    </div>
+  </header>
+
+  <!-- ── Hero ───────────────────────────────────────────────── -->
+  <section class="hero">
+    <div class="container">
+      <div class="hero-label">
+        <svg width="10" height="10" viewBox="0 0 10 10" fill="currentColor"><circle cx="5" cy="5" r="5"/></svg>
+        AI · Product Management · UX Design
+      </div>
+      <h1>Working out loud at the <em>frontier</em> of product and AI.</h1>
+      <p class="hero-description">
+        I'm <a href="https://www.linkedin.com/in/tzlukoma/" target="_blank" style="color:var(--accent);text-decoration:none;border-bottom:1px solid var(--accent-dim)">Thomas Lukoma</a> — Executive Director in Payments Technology at J.P. Morgan,
+        with roots in UX and front-end engineering. This is my ongoing synthesis of what
+        I'm reading, watching, and thinking as I navigate what comes next.
+        All sources attributed. All thinking in progress.
+      </p>
+      <div class="hero-meta">
+        <div class="hero-stat">
+          <span class="hero-stat-value" id="stat-signals">—</span>
+          <span class="hero-stat-label">Signals</span>
+        </div>
+        <div class="hero-divider"></div>
+        <div class="hero-stat">
+          <span class="hero-stat-value" id="stat-experts">—</span>
+          <span class="hero-stat-label">Experts tracked</span>
+        </div>
+        <div class="hero-divider"></div>
+        <div class="hero-updated">
+          Last updated <span id="last-updated">—</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── Activity Ticker ─────────────────────────────────────── -->
+  <div class="activity-bar">
+    <div class="activity-inner" id="activity-inner">
+      <!-- populated by JS -->
+    </div>
+  </div>
+
+  <!-- ── Main Content ────────────────────────────────────────── -->
+  <main>
+    <div class="container">
+
+      <!-- Signals Feed -->
+      <div class="section-header" id="signals">
+        <span class="section-title">Recent Signals</span>
+        <span class="section-count" id="signals-count"></span>
+      </div>
+      <div class="signals-grid" id="signals-container">
+        <!-- populated by JS -->
+      </div>
+
+      <!-- Experts Grid -->
+      <div class="section-header" id="experts">
+        <span class="section-title">Experts I'm Tracking</span>
+        <span class="section-count" id="experts-count"></span>
+      </div>
+      <div class="experts-grid" id="experts-container">
+        <!-- populated by JS -->
+      </div>
+
+    </div>
+  </main>
+
+  <!-- ── Expert Sidebar ──────────────────────────────────────── -->
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+  <aside class="sidebar" id="expert-sidebar" role="dialog" aria-modal="true" aria-label="Expert details">
+    <div class="sidebar-header">
+      <div class="sidebar-close">
+        <button class="sidebar-close-btn" id="sidebar-close-btn" aria-label="Close">&#x2715;</button>
+      </div>
+      <div class="sidebar-expert-meta">
+        <div class="sidebar-avatar" id="sidebar-avatar"></div>
+        <div class="sidebar-expert-info">
+          <div class="sidebar-expert-name" id="sidebar-name"></div>
+          <div class="sidebar-expert-title" id="sidebar-title"></div>
+        </div>
+      </div>
+      <p class="sidebar-expert-bio" id="sidebar-bio"></p>
+      <div class="sidebar-domains" id="sidebar-domains"></div>
+      <div class="sidebar-links" id="sidebar-links"></div>
+    </div>
+    <div class="sidebar-body">
+      <div class="sidebar-section-label" id="sidebar-signals-label"></div>
+      <div id="sidebar-signals"></div>
+    </div>
+  </aside>
+
+  <!-- ── Footer ─────────────────────────────────────────────── -->
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-inner">
+        <div class="footer-brand">
+          <strong>The Frontier Brief</strong> · Thomas Lukoma<br>
+          <span>AI × Product × UX — working out loud</span>
+        </div>
+        <p class="footer-note">
+          All insights are attributed to their original sources.
+          This site represents my reading and synthesis — not original research,
+          and not the views of my employer.
+        </p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
