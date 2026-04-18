@@ -247,3 +247,35 @@ document.addEventListener('keydown', (e) => {
   if (e.key === 'Enter' && e.target.classList.contains('signal-card')) e.target.click();
   if (e.key === 'Enter' && e.target.classList.contains('expert-card')) e.target.click();
 });
+
+// ── Theme toggle ───────────────────────────────────────────────
+function initTheme() {
+  const saved       = localStorage.getItem('theme');
+  const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+  const mode        = saved || (prefersDark ? 'dark' : 'light');
+  applyTheme(mode, false);
+}
+
+function applyTheme(mode, save = true) {
+  const btn  = document.getElementById('theme-toggle');
+  const icon = btn && btn.querySelector('.theme-icon');
+  if (mode === 'light') {
+    document.documentElement.classList.add('light');
+    if (icon) icon.textContent = '🌙';
+  } else {
+    document.documentElement.classList.remove('light');
+    if (icon) icon.textContent = '☀️';
+  }
+  if (save) localStorage.setItem('theme', mode);
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  initTheme();
+  const btn = document.getElementById('theme-toggle');
+  if (btn) {
+    btn.addEventListener('click', () => {
+      const isLight = document.documentElement.classList.contains('light');
+      applyTheme(isLight ? 'dark' : 'light');
+    });
+  }
+});
