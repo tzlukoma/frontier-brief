@@ -800,5 +800,105 @@
     "tags": [
       "ai-product"
     ]
+  },
+  {
+    "id": "s039",
+    "type": "signal",
+    "title": "Prototypes vs Products",
+    "expert": "Marty Cagan",
+    "expert_slug": "marty-cagan",
+    "source_type": "article",
+    "source_url": "https://www.svpg.com/prototypes-vs-products/",
+    "published": "2025-11-07",
+    "processed": "2026-04-18",
+    "domains": [
+      "product-management",
+      "product-leadership"
+    ],
+    "thomas_lens": "I can see the article metadata, but the actual article content isn't in what you've provided - only the HTML/JSON schema markup and page structure.\n\nTo generate the brief you need, I'd need the actual article text. Could you either:\n\n1. Copy the article content directly from the page (the body text, not the page source)\n2. Save the article as a text file and let me read it\n3. Provide a clean text ",
+    "key_quote": "Note: This is part of the product creator series of articles, based on the overview article, The Era of the Product Creator.&#160; This series is intended for anyone that wants to create a successful ",
+    "tags": [
+      "ai-product"
+    ]
+  },
+  {
+    "id": "s040",
+    "type": "signal",
+    "title": "Forward Deployed Engineers",
+    "expert": "Marty Cagan",
+    "expert_slug": "marty-cagan",
+    "source_type": "article",
+    "source_url": "https://www.svpg.com/forward-deployed-engineers/",
+    "published": "2025-09-17",
+    "processed": "2026-04-18",
+    "domains": [
+      "product-management",
+      "product-leadership"
+    ],
+    "thomas_lens": "I need permission to fetch the article. Could you either:\n1. Approve the WebFetch request above, or\n2. Copy and paste the actual article text (not the HTML code) from the page?",
+    "key_quote": "Note: This is part of the product creator series of articles, based on the overview article, The Era of the Product Creator.&#160; This series is intended for anyone that wants to create a successful ",
+    "tags": [
+      "ai-product"
+    ]
+  },
+  {
+    "id": "s041",
+    "type": "signal",
+    "title": "The Purpose of Prototypes",
+    "expert": "Marty Cagan",
+    "expert_slug": "marty-cagan",
+    "source_type": "article",
+    "source_url": "https://www.svpg.com/the-purpose-of-prototypes/",
+    "published": "2025-09-12",
+    "processed": "2026-04-18",
+    "domains": [
+      "product-management",
+      "product-leadership"
+    ],
+    "thomas_lens": "I need the actual article content to analyze. What you've provided is mostly HTML metadata and page structure, but not the article text itself.\n\nCould you either:\n1. Copy the full article text from the page\n2. Save the article as a text/markdown file that I can read\n3. Or let me use WebFetch to retrieve the article directly from the URL\n\nWhich would you prefer?",
+    "key_quote": "Note: This is part of the product creator series of articles, based on the overview article, The Era of the Product Creator.&#160; This series is intended for anyone that wants to create a successful ",
+    "tags": [
+      "ai-product"
+    ]
+  },
+  {
+    "id": "s042",
+    "type": "signal",
+    "title": "Product Leadership Archetypes",
+    "expert": "Marty Cagan",
+    "expert_slug": "marty-cagan",
+    "source_type": "article",
+    "source_url": "https://www.svpg.com/product-leadership-archetypes/",
+    "published": "2025-08-27",
+    "processed": "2026-04-18",
+    "domains": [
+      "product-management",
+      "product-leadership"
+    ],
+    "thomas_lens": "I can see the article metadata but not the actual content. The HTML provided contains only page structure, JavaScript, and schema markup. \n\nTo create the structured brief you need, I'll need the actual article text. Could you:\n\n1. Copy/paste the article content directly, or\n2. Save the article text to a file I can read, or\n3. Share a different version of the content?\n\nFrom the metadata, I can see ",
+    "key_quote": "Just recently SVPG Partner Christian Idiodi hosted Shreyas Doshi on his Product Therapy podcast, where they discussed the role of product leadership.\u00a0\u00a0 If you haven\u2019t yet listened to this interview, I",
+    "tags": [
+      "ai-product"
+    ]
+  },
+  {
+    "id": "s043",
+    "type": "signal",
+    "title": "Build vs Buy in the Age of AI",
+    "expert": "Marty Cagan",
+    "expert_slug": "marty-cagan",
+    "source_type": "article",
+    "source_url": "https://www.svpg.com/article-build-vs-buy-in-the-age-of-ai/",
+    "published": "2025-08-19",
+    "processed": "2026-04-18",
+    "domains": [
+      "product-management",
+      "product-leadership"
+    ],
+    "thomas_lens": "The content you pasted appears to be HTML code rather than the article text. I need permission to fetch the actual article content from the URL, or you can paste the article text directly.\n\nWould you like me to:\n1. Use WebFetch (you'll need to approve the permission prompt), or\n2. You can copy/paste the actual article text from the page?",
+    "key_quote": "One topic that has been around since the beginning of the tech industry, is whether we should build or buy in order to solve some problem? This question applies to traditional IT, as well as to every ",
+    "tags": [
+      "ai-product"
+    ]
   }
 ]
