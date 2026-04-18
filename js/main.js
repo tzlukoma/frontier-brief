@@ -339,3 +339,16 @@ function applyFilter() {
 }
 
 document.addEventListener('DOMContentLoaded', initFilters);
+
+// ── Mobile menu ────────────────────────────────────────────────
+document.addEventListener('DOMContentLoaded', () => {
+  const btn = document.getElementById('mobile-menu-btn');
+  const nav = document.getElementById('mobile-nav');
+  if (btn && nav) {
+    btn.addEventListener('click', () => nav.classList.toggle('open'));
+    // Close on nav link tap
+    nav.querySelectorAll('a').forEach(a => {
+      a.addEventListener('click', () => nav.classList.remove('open'));
+    });
+  }
+});

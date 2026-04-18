@@ -30,8 +30,17 @@
           <button class="theme-toggle" id="theme-toggle" aria-label="Toggle light/dark mode">
             <span class="theme-icon">☀️</span>
           </button>
+          <button class="mobile-menu-btn" id="mobile-menu-btn" aria-label="Menu">
+            <span></span><span></span><span></span>
+          </button>
           <div class="live-dot">Live feed</div>
         </div>
+      </div>
+      <nav class="mobile-nav" id="mobile-nav">
+        <a href="index.html">Signals</a>
+        <a href="index.html#experts">Experts</a>
+        <a href="about.html">About</a>
+      </nav>
       </div>
     </div>
   </header>
@@ -158,6 +167,13 @@
       if (btn) btn.addEventListener('click', () => {
         applyTheme(document.documentElement.classList.contains('light') ? 'dark' : 'light');
       });
+      // Mobile menu
+      const mbtn = document.getElementById('mobile-menu-btn');
+      const mnav = document.getElementById('mobile-nav');
+      if (mbtn && mnav) {
+        mbtn.addEventListener('click', () => mnav.classList.toggle('open'));
+        mnav.querySelectorAll('a').forEach(a => a.addEventListener('click', () => mnav.classList.remove('open')));
+      }
     });
 
     // Load posts from data/posts.json when it exists
