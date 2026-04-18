@@ -982,3 +982,17 @@ img { max-width: 100%; }
   .about-avatar { margin-bottom: 0; }
   .about-tags { flex-direction: row; }
 }
+
+/* ── About photo ─────────────────────────────────────────── */
+.about-avatar-wrap {
+  margin-bottom: 14px;
+}
+.about-photo {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center top;
+  border: 2px solid var(--border);
+  display: block;
+}
