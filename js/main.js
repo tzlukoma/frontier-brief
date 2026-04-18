@@ -2,8 +2,9 @@
 // Loads data from JSON files, renders signals + experts, updates
 // timestamps and live-feed activity ticker.
 
-const SIGNALS_URL  = 'data/signals.json';
-const EXPERTS_URL  = 'data/experts.json';
+const CACHE_BUST = Date.now();
+const SIGNALS_URL  = `data/signals.json?v=${CACHE_BUST}`;
+const EXPERTS_URL  = `data/experts.json?v=${CACHE_BUST}`;
 
 // ── Helpers ────────────────────────────────────────────────────
 function relativeDate(dateStr) {
@@ -34,10 +35,10 @@ function renderSignals(signals, experts) {
 
   countEl && (countEl.textContent = `${signals.length} signals`);
 
-  // Sort reverse chronological by processed date, then published
+  // Sort reverse chronological by published date
   const sorted = [...signals].sort((a, b) => {
-    const da = new Date(a.processed || a.published || 0);
-    const db = new Date(b.processed || b.published || 0);
+    const da = new Date(a.published || a.processed || 0);
+    const db = new Date(b.published || b.processed || 0);
     return db - da;
   });
 
