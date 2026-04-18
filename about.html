@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About — The Frontier Brief · Thomas Lukoma</title>
+  <meta name="description" content="Thomas Lukoma's public intelligence feed at the intersection of AI, Product Management, and UX Design.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="css/style.css">
+  <!-- Apply theme before paint to prevent flash -->
+  <script>const _t=localStorage.getItem('theme')||(window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light');if(_t==='light')document.documentElement.classList.add('light');</script>
+</head>
+<body>
+
+  <!-- ── Header ─────────────────────────────────────────────── -->
+  <header class="site-header">
+    <div class="container">
+      <div class="header-inner">
+        <a href="index.html" class="logo" style="text-decoration:none">
+          <span class="logo-publication">The Frontier Brief</span>
+          <span class="logo-name">Thomas Lukoma</span>
+        </a>
+        <nav class="header-nav">
+          <a href="index.html">Signals</a>
+          <a href="index.html#experts">Experts</a>
+          <a href="about.html" class="active">About</a>
+        </nav>
+        <div class="header-right">
+          <button class="theme-toggle" id="theme-toggle" aria-label="Toggle light/dark mode">
+            <span class="theme-icon">☀️</span>
+          </button>
+          <div class="live-dot">Live feed</div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- ── About Content ──────────────────────────────────────── -->
+  <main>
+    <div class="container">
+      <div class="about-wrap">
+
+        <!-- Bio column -->
+        <div class="about-bio">
+          <div class="about-avatar">TL</div>
+          <div class="about-name">Thomas Lukoma</div>
+          <div class="about-role">Executive Director, Payments Technology<br>J.P. Morgan</div>
+          <a href="https://www.linkedin.com/in/tzlukoma/" target="_blank" class="about-linkedin">
+            LinkedIn ↗
+          </a>
+          <div class="about-tags">
+            <span class="tag">AI × Product</span>
+            <span class="tag">UX Design</span>
+            <span class="tag">Fintech</span>
+            <span class="tag">Front-End</span>
+          </div>
+        </div>
+
+        <!-- Main content column -->
+        <div class="about-content">
+
+          <div class="section-header" style="padding-top:48px">
+            <span class="section-title">About This Site</span>
+          </div>
+
+          <div class="about-body">
+            <p>The Frontier Brief is my public intelligence feed — a living record of what I'm reading, watching, and thinking as I work through one of the more interesting career questions I've faced: what does it mean to lead product in the age of AI?</p>
+
+            <p>I've spent over two decades in financial technology. I started as a business analyst, pivoted to UX designer, became a front-end engineer, and most recently moved into product management, most of the time in payments technology at J.P. Morgan. That intersection — design thinking, technical fluency, and product leadership at scale in a regulated industry — feels like exactly the right vantage point for what's coming next.</p>
+
+            <p>AI isn't just changing the tools. It's changing what product leaders need to be good at. The execution layer is being commoditized. Judgment, taste, and the ability to ask the right questions are becoming the scarce resource. I'm trying to get sharper on all three.</p>
+
+            <p>This site is how I do that in public.</p>
+          </div>
+
+          <div class="section-header">
+            <span class="section-title">What You'll Find Here</span>
+          </div>
+
+          <div class="about-features">
+            <div class="about-feature">
+              <div class="about-feature-label">Signals</div>
+              <p>Synthesis of articles, newsletters, talks, and videos from the people I think are seeing clearly. Every signal includes my own lens: why it matters specifically for someone navigating the intersection of AI, product leadership, and enterprise financial services.</p>
+            </div>
+            <div class="about-feature">
+              <div class="about-feature-label">Experts</div>
+              <p>The thinkers I'm tracking. Not a list of famous names, but a deliberately curated set of people whose work is actually changing how I think.</p>
+            </div>
+            <div class="about-feature">
+              <div class="about-feature-label">Posts</div>
+              <p>Weekly reflections. Every Friday I read back through what surfaced that week and write something. It won't always be polished. That's the point.</p>
+            </div>
+          </div>
+
+          <div class="section-header">
+            <span class="section-title">A Note on Sourcing</span>
+          </div>
+
+          <div class="about-body">
+            <p>Everything here is attributed. The ideas belong to the people I'm reading. My contribution is the synthesis, the lens, and the connections I draw across sources. This is a learning practice made visible — not original research, and not the views of my employer.</p>
+            <p>If something here resonates, I'd love to hear from you.</p>
+          </div>
+
+          <!-- Posts section — populated when Friday posts exist -->
+          <div class="section-header" id="posts-header" style="display:none">
+            <span class="section-title">Posts</span>
+          </div>
+          <div id="posts-container"></div>
+
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <!-- ── Footer ─────────────────────────────────────────────── -->
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-inner">
+        <div class="footer-brand">
+          <strong>The Frontier Brief</strong> · Thomas Lukoma<br>
+          <span>AI × Product × UX — working out loud</span>
+        </div>
+        <p class="footer-note">
+          All insights are attributed to their original sources.
+          This site represents my reading and synthesis — not original research,
+          and not the views of my employer.
+        </p>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    // Theme toggle (inline — no dependency on main.js)
+    function initTheme() {
+      const saved = localStorage.getItem('theme');
+      const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+      const mode = saved || (prefersDark ? 'dark' : 'light');
+      applyTheme(mode, false);
+    }
+    function applyTheme(mode, save = true) {
+      const btn  = document.getElementById('theme-toggle');
+      const icon = btn && btn.querySelector('.theme-icon');
+      if (mode === 'light') {
+        document.documentElement.classList.add('light');
+        if (icon) icon.textContent = '🌙';
+      } else {
+        document.documentElement.classList.remove('light');
+        if (icon) icon.textContent = '☀️';
+      }
+      if (save) localStorage.setItem('theme', mode);
+    }
+    document.addEventListener('DOMContentLoaded', () => {
+      initTheme();
+      const btn = document.getElementById('theme-toggle');
+      if (btn) btn.addEventListener('click', () => {
+        applyTheme(document.documentElement.classList.contains('light') ? 'dark' : 'light');
+      });
+    });
+
+    // Load posts from data/posts.json when it exists
+    async function loadPosts() {
+      try {
+        const r = await fetch(`data/posts.json?v=${Date.now()}`);
+        if (!r.ok) return;
+        const posts = await r.json();
+        if (!posts.length) return;
+        document.getElementById('posts-header').style.display = '';
+        document.getElementById('posts-container').innerHTML = posts.map(p => `
+          <div class="post-card">
+            <div class="post-meta">${p.date} · ${p.week || ''}</div>
+            <h3 class="post-title">${p.title}</h3>
+            <p class="post-excerpt">${p.excerpt}</p>
+            <a href="posts/${p.slug}.html" class="post-read-more">Read post →</a>
+          </div>
+        `).join('');
+      } catch(e) {}
+    }
+    loadPosts();
+  </script>
+
+</body>
+</html>
