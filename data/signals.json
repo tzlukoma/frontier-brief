@@ -305,5 +305,110 @@
     "tags": [
       "ai-product"
     ]
+  },
+  {
+    "id": "s015",
+    "type": "signal",
+    "title": "\ud83c\udf99\ufe0f This week on How I AI: I gave Claude Code our entire codebase. Our customers noticed.",
+    "expert": "Lenny Rachitsky",
+    "expert_slug": "lenny-rachitsky",
+    "source_type": "newsletter",
+    "source_url": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-i-gave-claude",
+    "published": "2026-04-06",
+    "processed": "2026-04-18",
+    "domains": [
+      "ai-\u00d7-product",
+      "growth",
+      "pm-career"
+    ],
+    "thomas_lens": "I need permission to fetch the article content. The content you provided appears to be just HTML/CSS code rather than the actual article text.\n\nPlease either:\n1. **Grant permission** for the WebFetch request above so I can retrieve the full article\n2. **Copy and paste the actual article text** (not the page source code)\n\nOnce I have the real content, I'll create your structured brief.",
+    "key_quote": "Your weekly listens from How I AI, part of the Lenny&#8217;s Podcast Network",
+    "tags": [
+      "ai-product"
+    ]
+  },
+  {
+    "id": "s016",
+    "type": "signal",
+    "title": "I gave Claude Code our entire codebase. Our customers noticed. | Al Chen (Galileo)",
+    "expert": "Lenny Rachitsky",
+    "expert_slug": "lenny-rachitsky",
+    "source_type": "newsletter",
+    "source_url": "https://www.lennysnewsletter.com/p/i-gave-claude-code-our-entire-codebase",
+    "published": "2026-04-06",
+    "processed": "2026-04-18",
+    "domains": [
+      "ai-\u00d7-product",
+      "growth",
+      "pm-career"
+    ],
+    "thomas_lens": "I can see the article metadata, but the actual content isn't included in what you shared\u2014just HTML/CSS headers and schema markup.\n\nTo create the structured brief you need, I'll need the actual article text. Could you either:\n1. Share the full article content, or\n2. Provide the URL so I can fetch it using WebFetch?\n\nThe metadata shows it's about Al Chen using Claude Code to query Galileo's codebase",
+    "key_quote": "Watch now | &#127897;&#65039; Al Chen (Field Engineer at Galileo) shows how he uses AI to query his entire codebase and deliver precise, real-time answers to enterprise customers&#8212;without relying",
+    "tags": [
+      "ai-product"
+    ]
+  },
+  {
+    "id": "s017",
+    "type": "signal",
+    "title": "Head of Growth (Anthropic):\u00a0\u201cClaude is growing itself at this point\u201d | Amol Avasare",
+    "expert": "Lenny Rachitsky",
+    "expert_slug": "lenny-rachitsky",
+    "source_type": "newsletter",
+    "source_url": "https://www.lennysnewsletter.com/p/anthropics-1b-to-19b-growth-run",
+    "published": "2026-04-05",
+    "processed": "2026-04-18",
+    "domains": [
+      "ai-\u00d7-product",
+      "growth",
+      "pm-career"
+    ],
+    "thomas_lens": "I need to fetch the full article content to create the brief. Please approve the WebFetch permission, or paste the actual article text (the current content provided is mostly HTML/CSS metadata rather than the article itself).",
+    "key_quote": "Listen now | Anthropic&#8217;s Head of Growth on scaling from $1B to $19B ARR in 14 months through big bets, intentional onboarding friction, deep focus, and CASH&#8212;an internal AI system for auton",
+    "tags": [
+      "ai-product"
+    ]
+  },
+  {
+    "id": "s018",
+    "type": "signal",
+    "title": "\ud83e\udde0 Community Wisdom: Evaluating startup equity, navigating pre-seed fundraising, MCPs vs. CLIs, Monzo\u2019s U.S. exit, and more",
+    "expert": "Lenny Rachitsky",
+    "expert_slug": "lenny-rachitsky",
+    "source_type": "newsletter",
+    "source_url": "https://www.lennysnewsletter.com/p/community-wisdom-evaluating-startup",
+    "published": "2026-04-04",
+    "processed": "2026-04-18",
+    "domains": [
+      "ai-\u00d7-product",
+      "growth",
+      "pm-career"
+    ],
+    "thomas_lens": "The content you provided contains only HTML metadata and CSS, not the actual article text. To create the structured brief, I need the full article content.\n\n**Two options:**\n\n1. **Grant permission** for me to fetch the article from the URL using WebFetch\n2. **Paste the actual article text** (copy the readable content from the webpage)\n\nWhich would you prefer?",
+    "key_quote": "Community Wisdom 180",
+    "tags": [
+      "ai-product"
+    ]
+  },
+  {
+    "id": "s019",
+    "type": "signal",
+    "title": "An AI state of the union: We\u2019ve passed the inflection point, dark factories are coming, and automation timelines | Simon Willison",
+    "expert": "Lenny Rachitsky",
+    "expert_slug": "lenny-rachitsky",
+    "source_type": "newsletter",
+    "source_url": "https://www.lennysnewsletter.com/p/an-ai-state-of-the-union",
+    "published": "2026-04-02",
+    "processed": "2026-04-18",
+    "domains": [
+      "ai-\u00d7-product",
+      "growth",
+      "pm-career"
+    ],
+    "thomas_lens": "I can see the article metadata, but the actual content of the interview with Simon Willison isn't included in what you've shared. The text provided contains only HTML structure, CSS styling, and schema markup\u2014not the article body.\n\nTo create the structured brief you need, I'll need the actual article content (the interview text, key points, quotes, etc.). \n\nCould you either:\n1. Share the full arti",
+    "key_quote": "Listen now | Simon Willison on why November 2025 changed software engineering forever, the lethal trifecta, his top agentic engineering patterns, and much more",
+    "tags": [
+      "ai-product"
+    ]
   }
 ]
