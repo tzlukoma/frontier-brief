@@ -234,5 +234,30 @@
       "system-prompts",
       "llm-behavior"
     ]
+  },
+  {
+    "id": "s011",
+    "type": "signal",
+    "title": "\ud83c\udf99\ufe0f This week on How I AI: I gave Claude Code our entire codebase. Our customers noticed.",
+    "expert": "Lenny Rachitsky",
+    "expert_slug": "lenny-rachitsky",
+    "source_type": "newsletter",
+    "source_url": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-i-gave-claude",
+    "published": "2026-04-06",
+    "processed": "2026-04-18",
+    "domains": [
+      "ai-\u00d7-product",
+      "growth",
+      "pm-career"
+    ],
+    "thomas_lens": "This demonstrates a strategic shift from using AI for product velocity to using it for service differentiation\u2014custom technical support that accounts for each customer's specific infrastructure is harder to replicate than product features. It reveals that AI can fundamentally restructure the technical knowledge boundary between customer-facing teams and engineering, enabling field teams to answer questions previously requiring deep codebase expertise. The pattern of treating code as the primary ",
+    "key_quote": "Compete on customer experience, not just product velocity. Everyone uses AI to ship faster products. Al uses AI to show up differently in customer relationships\u2014delivering custom deployment documentation that accounts for each customer's specific security requirements and infrastructure constraints.",
+    "tags": [
+      "claude-code",
+      "customer-support-ai",
+      "code-as-documentation",
+      "technical-enablement",
+      "service-differentiation"
+    ]
   }
 ]
