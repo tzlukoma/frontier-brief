@@ -209,5 +209,30 @@
       "product-management",
       "ai-competition"
     ]
+  },
+  {
+    "id": "s010",
+    "type": "signal",
+    "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
+    "expert": "Simon Willison",
+    "expert_slug": "simon-willison",
+    "source_type": "article",
+    "source_url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
+    "published": "2026-04-18",
+    "processed": "2026-04-18",
+    "domains": [
+      "ai-tools",
+      "ai-practice",
+      "technical-ai"
+    ],
+    "thomas_lens": "This reveals how production AI systems balance proactivity with safety at scale\u2014the shift to \"make a reasonable attempt now, not interview first\" represents a fundamental UX philosophy that could inform your own AI product design. The toolsearch pattern shows how to handle capability discovery gracefully rather than falsely claiming \"I can't do that.\" Understanding these prompt engineering patterns gives you a blueprint for building AI products that feel helpful without being pushy or overly cau",
+    "key_quote": "When a request leaves minor details unspecified, the person typically wants Claude to make a reasonable attempt now, not to be interviewed first.",
+    "tags": [
+      "prompt-engineering",
+      "ai-product-design",
+      "anthropic",
+      "system-prompts",
+      "llm-behavior"
+    ]
   }
 ]
