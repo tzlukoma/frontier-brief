@@ -137,5 +137,29 @@
       "case-study",
       "voice-ui"
     ]
+  },
+  {
+    "id": "s007",
+    "type": "signal",
+    "title": "Product Work Is Relationship Work - All Things Product Podcast with Teresa Torres & Petra Wille",
+    "expert": "Teresa Torres",
+    "expert_slug": "teresa-torres",
+    "source_type": "article",
+    "source_url": "https://www.producttalk.org/product-work-is-relationship-work-all-things-product-podcast-with-teresa-torres-petra-wille/",
+    "published": "2026-04-14",
+    "processed": "2026-04-18",
+    "domains": [
+      "product-discovery",
+      "outcome-driven-pm"
+    ],
+    "thomas_lens": "As AI agents handle more tactical product work, the differentiated value of product leaders shifts entirely to the interpersonal layer\u2014stakeholder alignment, building shared context, and navigating organizational dynamics. Product leaders who treat collaboration as transactional will become bottlenecks; those who invest in relational work and curiosity will unlock faster execution because teams operate from shared understanding rather than constant negotiation. This reframes \"product politics\" f",
+    "key_quote": "While AI can help build things faster, it can't replace the relationship work required to align stakeholders, navigate competing priorities, and create shared understanding across teams.",
+    "tags": [
+      "product-management",
+      "stakeholder-alignment",
+      "relationship-work",
+      "ai-future-of-work",
+      "collaboration"
+    ]
   }
 ]
