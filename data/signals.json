@@ -185,5 +185,29 @@
       "foundation-models",
       "product-model-transformation"
     ]
+  },
+  {
+    "id": "s009",
+    "type": "signal",
+    "title": "Commercial vs Internal Products",
+    "expert": "Marty Cagan",
+    "expert_slug": "marty-cagan",
+    "source_type": "article",
+    "source_url": "https://www.svpg.com/commercial-vs-internal-products/",
+    "published": "2026-04-09",
+    "processed": "2026-04-18",
+    "domains": [
+      "product-management",
+      "product-leadership"
+    ],
+    "thomas_lens": "For AI-native product leaders, this distinction is crucial because AI is simultaneously lowering the barrier to create solutions while raising the competitive bar for commercial products. The speed of AI-driven competition means product discovery skills are now existential\u2014you can't just build a working AI feature, you must build one so compelling it drives switching behavior in an increasingly crowded market.",
+    "key_quote": "It is next level hard to take ownership of an outcome for a commercial product, which has to win against a rapidly growing list of competitors before it has the chance to deliver real business results.",
+    "tags": [
+      "product-discovery",
+      "commercial-products",
+      "competitive-strategy",
+      "product-management",
+      "ai-competition"
+    ]
   }
 ]
