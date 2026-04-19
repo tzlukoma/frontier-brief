@@ -161,5 +161,29 @@
       "ai-future-of-work",
       "collaboration"
     ]
+  },
+  {
+    "id": "s008",
+    "type": "signal",
+    "title": "Product Coaching and AI",
+    "expert": "Marty Cagan",
+    "expert_slug": "marty-cagan",
+    "source_type": "article",
+    "source_url": "https://www.svpg.com/product-coaching-and-ai/",
+    "published": "2026-02-04",
+    "processed": "2026-04-18",
+    "domains": [
+      "product-management",
+      "product-leadership"
+    ],
+    "thomas_lens": "This exposes a defining trap for product managers: using AI to accelerate \"project model\" work (roadmaps, PRDs, aggregating feedback) reveals you're doing theater that engineers or agents could do themselves. The strategic opportunity is using AI to develop genuine product sense and learn the product model\u2014distinguishing value-creating PMs from those at risk of replacement. You must explicitly instruct your AI coach which operating model to prioritize or you'll get confused, generic advice.",
+    "key_quote": "If you're just using AI in order to accelerate the project model by showing how trivial it is to aggregate requests and feedback, generate roadmaps, and create PRD's and/or user stories, realize that an agent \u2013 or your engineer or designer \u2013 could just as easily do this themselves.",
+    "tags": [
+      "ai-product-coaching",
+      "product-management-theater",
+      "product-sense",
+      "foundation-models",
+      "product-model-transformation"
+    ]
   }
 ]
