@@ -285,5 +285,26 @@
       "product leadership",
       "AI first"
     ]
+  },
+  {
+    "id": "s013",
+    "type": "signal",
+    "title": "Why I Released an AI Agent That Scared Everyone | Peter Sch\u00f6nemann",
+    "expert": "peter-schonemann-openclaw-agents",
+    "expert_slug": "peter-schonemann-openclaw-agents",
+    "source_type": "video",
+    "source_url": "https://youtu.be/7rzYDM6vMtI?si=AzCol5sv_hBkT70N",
+    "published": "2026-04-20",
+    "processed": "2026-04-20",
+    "domains": [],
+    "thomas_lens": "Agents improvise and persist; chatbots fail gracefully. The shift from instruction-following to emergent autonomy redefines product development.",
+    "key_quote": "The bottleneck is no longer typing. It's thinking. And thinking was the part I did 25 years. Building software felt like playing a video game again.",
+    "tags": [
+      "ai-agents",
+      "emergent-behavior",
+      "autonomous-systems",
+      "developer-experience",
+      "product-transformation"
+    ]
   }
 ]
