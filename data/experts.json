@@ -5,25 +5,12 @@
     "title": "Founder, Lenny's Newsletter & Podcast",
     "avatar_initials": "LR",
     "avatar_color": "#6366f1",
-    "domains": [
-      "AI × Product",
-      "Growth",
-      "PM Career"
-    ],
+    "domains": ["AI × Product", "Growth", "PM Career"],
     "bio_short": "Former Airbnb PM. Runs the most-read product management newsletter and podcast. Known for rigorous, practitioner-grounded takes on what actually works in product.",
     "links": [
-      {
-        "label": "Newsletter",
-        "url": "https://www.lennysnewsletter.com"
-      },
-      {
-        "label": "Podcast",
-        "url": "https://www.lennysnewsletter.com/podcast"
-      },
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/@LennysPodcast"
-      }
+      {"label": "Newsletter", "url": "https://www.lennysnewsletter.com"},
+      {"label": "Podcast", "url": "https://www.lennysnewsletter.com/podcast"},
+      {"label": "YouTube", "url": "https://www.youtube.com/@LennysPodcast"}
     ],
     "source_count": 0
   },
@@ -33,17 +20,10 @@
     "title": "Former PM Leader, Stripe · Twitter · Google",
     "avatar_initials": "SD",
     "avatar_color": "#8b5cf6",
-    "domains": [
-      "Product Leadership",
-      "AI × PM",
-      "Career"
-    ],
+    "domains": ["Product Leadership", "AI × PM", "Career"],
     "bio_short": "One of the most precise thinkers on product craft. Known for frameworks that hold under pressure — especially on how AI reshapes what PM skills actually matter long-term.",
     "links": [
-      {
-        "label": "Substack",
-        "url": "https://shreyasdoshi.substack.com"
-      }
+      {"label": "Substack", "url": "https://shreyasdoshi.substack.com"}
     ],
     "source_count": 0
   },
@@ -53,20 +33,11 @@
     "title": "Former VP Product, Netflix · CPO, Chegg",
     "avatar_initials": "GB",
     "avatar_color": "#f97316",
-    "domains": [
-      "Product Strategy",
-      "Product Leadership"
-    ],
+    "domains": ["Product Strategy", "Product Leadership"],
     "bio_short": "Built product at Netflix and Chegg. Now teaches, writes, and runs workshops on product strategy — best known for his DHM framework and how consumer product strategy actually works.",
     "links": [
-      {
-        "label": "Substack",
-        "url": "https://gibsonbiddle.substack.com"
-      },
-      {
-        "label": "Medium",
-        "url": "https://gibsonbiddle.medium.com"
-      }
+      {"label": "Substack", "url": "https://gibsonbiddle.substack.com"},
+      {"label": "Medium", "url": "https://gibsonbiddle.medium.com"}
     ],
     "source_count": 0
   },
@@ -76,16 +47,10 @@
     "title": "Founder, Silicon Valley Product Group",
     "avatar_initials": "MC",
     "avatar_color": "#f59e0b",
-    "domains": [
-      "Product Management",
-      "Product Leadership"
-    ],
+    "domains": ["Product Management", "Product Leadership"],
     "bio_short": "Author of Inspired and Empowered. The canonical voice on what separates strong product organizations from feature factories — increasingly relevant as AI reshapes team structure.",
     "links": [
-      {
-        "label": "SVPG Blog",
-        "url": "https://www.svpg.com/articles/"
-      }
+      {"label": "SVPG Blog", "url": "https://www.svpg.com/articles/"}
     ],
     "source_count": 0
   },
@@ -95,17 +60,10 @@
     "title": "Co-founder, Sundial · Former VP Design, Meta",
     "avatar_initials": "JZ",
     "avatar_color": "#ec4899",
-    "domains": [
-      "Product Leadership",
-      "UX × AI",
-      "AI Teams"
-    ],
+    "domains": ["Product Leadership", "UX × AI", "AI Teams"],
     "bio_short": "Spent 14 years at Facebook rising to VP of Product Design. Now co-founding Sundial, an AI startup. Author of The Making of a Manager — increasingly focused on how AI changes design leadership.",
     "links": [
-      {
-        "label": "Substack",
-        "url": "https://joulee.substack.com"
-      }
+      {"label": "Substack", "url": "https://joulee.substack.com"}
     ],
     "source_count": 0
   },
@@ -115,21 +73,24 @@
     "title": "Founder, Eureka Labs · Ex-OpenAI · Ex-Tesla AI",
     "avatar_initials": "AK",
     "avatar_color": "#14b8a6",
-    "domains": [
-      "AI Capabilities",
-      "AI Education",
-      "Technical AI"
-    ],
+    "domains": ["AI Capabilities", "AI Education", "Technical AI"],
     "bio_short": "OpenAI co-founder, former Tesla AI Director. Now running Eureka Labs, an AI education company. Coined 'vibe coding.' The clearest explainer of where AI is actually heading, technically.",
     "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/@AndrejKarpathy"
-      },
-      {
-        "label": "Blog",
-        "url": "https://karpathy.github.io"
-      }
+      {"label": "YouTube", "url": "https://www.youtube.com/@AndrejKarpathy"},
+      {"label": "Blog", "url": "https://karpathy.github.io"}
+    ],
+    "source_count": 0
+  },
+  {
+    "slug": "sam-altman",
+    "name": "Sam Altman",
+    "title": "CEO, OpenAI",
+    "avatar_initials": "SA",
+    "avatar_color": "#0ea5e9",
+    "domains": ["AI Strategy", "AI Macro", "Product Vision"],
+    "bio_short": "CEO of OpenAI. Unavoidable for understanding the macro AI trajectory. Reads best on long time horizons — his writing on intelligence, abundance, and the future of software is the strategic backdrop for everything else.",
+    "links": [
+      {"label": "Blog", "url": "https://blog.samaltman.com"}
     ],
     "source_count": 0
   },
@@ -139,17 +100,10 @@
     "title": "Professor, Wharton · Author, Co-Intelligence",
     "avatar_initials": "EM",
     "avatar_color": "#06b6d4",
-    "domains": [
-      "AI × Work",
-      "Research",
-      "AI Education"
-    ],
+    "domains": ["AI × Work", "Research", "AI Education"],
     "bio_short": "The most rigorous academic voice on how AI changes knowledge work and organizations. Empirical, measured, and consistently ahead of the hype — essential reading for anyone leading in the AI era.",
     "links": [
-      {
-        "label": "One Useful Thing",
-        "url": "https://www.oneusefulthing.org"
-      }
+      {"label": "One Useful Thing", "url": "https://www.oneusefulthing.org"}
     ],
     "source_count": 0
   },
@@ -159,17 +113,10 @@
     "title": "Creator, Datasette · Independent AI Practitioner",
     "avatar_initials": "SW",
     "avatar_color": "#84cc16",
-    "domains": [
-      "AI Tools",
-      "AI Practice",
-      "Technical AI"
-    ],
+    "domains": ["AI Tools", "AI Practice", "Technical AI"],
     "bio_short": "Prolific open-source developer and one of the sharpest, most honest practitioners writing about AI tools. Cuts through hype with working code and real-world tests — valuable for technical grounding.",
     "links": [
-      {
-        "label": "Blog",
-        "url": "https://simonwillison.net"
-      }
+      {"label": "Blog", "url": "https://simonwillison.net"}
     ],
     "source_count": 0
   },
@@ -179,21 +126,11 @@
     "title": "Founder, UX Collective",
     "avatar_initials": "FT",
     "avatar_color": "#10b981",
-    "domains": [
-      "UX Design",
-      "AI × UX",
-      "Design Practice"
-    ],
+    "domains": ["UX Design", "AI × UX", "Design Practice"],
     "bio_short": "Runs UX Collective, one of the most-read design publications. Weekly synthesis of what's shifting in design practice — currently focused on how AI and vibe coding are eroding (and reshaping) design authority.",
     "links": [
-      {
-        "label": "UX Collective",
-        "url": "https://uxdesign.cc"
-      },
-      {
-        "label": "Medium",
-        "url": "https://medium.com/@fabriciot"
-      }
+      {"label": "UX Collective", "url": "https://uxdesign.cc"},
+      {"label": "Medium", "url": "https://medium.com/@fabriciot"}
     ],
     "source_count": 0
   },
@@ -203,17 +140,10 @@
     "title": "AI Transformation Strategist · Co-founder, Adaptive Path",
     "avatar_initials": "JJ",
     "avatar_color": "#a855f7",
-    "domains": [
-      "UX Design",
-      "AI × UX",
-      "Design Strategy"
-    ],
+    "domains": ["UX Design", "AI × UX", "Design Strategy"],
     "bio_short": "Author of The Elements of User Experience and co-founder of Adaptive Path. Now working as an AI transformation strategist and private leadership advisor — a UX canon voice navigating the AI inflection.",
     "links": [
-      {
-        "label": "Website",
-        "url": "https://jessejamesgarrett.com"
-      }
+      {"label": "Website", "url": "https://jessejamesgarrett.com"}
     ],
     "source_count": 0
   },
@@ -223,21 +153,11 @@
     "title": "Creator, Tailwind CSS",
     "avatar_initials": "AW",
     "avatar_color": "#0891b2",
-    "domains": [
-      "Design Systems",
-      "Front-End",
-      "UX Engineering"
-    ],
+    "domains": ["Design Systems", "Front-End", "UX Engineering"],
     "bio_short": "Creator of Tailwind CSS — the design system toolkit that became ubiquitous. Influential on how design and engineering converge, and how UI decisions scale across teams.",
     "links": [
-      {
-        "label": "Blog",
-        "url": "https://adamwathan.me"
-      },
-      {
-        "label": "Tailwind CSS",
-        "url": "https://tailwindcss.com"
-      }
+      {"label": "Blog", "url": "https://adamwathan.me"},
+      {"label": "Tailwind CSS", "url": "https://tailwindcss.com"}
     ],
     "source_count": 0
   },
@@ -247,11 +167,7 @@
     "title": "UX Designer · AI × Inclusive Design Voice",
     "avatar_initials": "NT",
     "avatar_color": "#e11d48",
-    "domains": [
-      "AI × UX",
-      "Inclusive Design",
-      "Emerging UX"
-    ],
+    "domains": ["AI × UX", "Inclusive Design", "Emerging UX"],
     "bio_short": "An emerging voice at the intersection of AI, UX, and inclusive design — tracking how AI-native interfaces risk encoding old biases and what it takes to design for everyone.",
     "links": [],
     "source_count": 0
@@ -262,21 +178,11 @@
     "title": "Advisor, Stripe · Author, Bits About Money",
     "avatar_initials": "PM",
     "avatar_color": "#7c3aed",
-    "domains": [
-      "Payments",
-      "Fintech",
-      "Financial Infrastructure"
-    ],
+    "domains": ["Payments", "Fintech", "Financial Infrastructure"],
     "bio_short": "Advisor at Stripe. Writes Bits About Money — the sharpest newsletter on the technical and regulatory plumbing underneath payments and financial infrastructure. Required reading if you work in this space.",
     "links": [
-      {
-        "label": "Bits About Money",
-        "url": "https://www.bitsaboutmoney.com"
-      },
-      {
-        "label": "Blog",
-        "url": "https://www.kalzumeus.com"
-      }
+      {"label": "Bits About Money", "url": "https://www.bitsaboutmoney.com"},
+      {"label": "Blog", "url": "https://www.kalzumeus.com"}
     ],
     "source_count": 0
   },
@@ -286,17 +192,10 @@
     "title": "Founder, This Week in Fintech · GP, The Fintech Fund",
     "avatar_initials": "NM",
     "avatar_color": "#d97706",
-    "domains": [
-      "Fintech",
-      "Payments",
-      "Industry Signal"
-    ],
+    "domains": ["Fintech", "Payments", "Industry Signal"],
     "bio_short": "Founded This Week in Fintech, the most widely read fintech newsletter. Former Google Pay and Petal. Now a GP at The Fintech Fund — practitioner-level signal on where the industry is actually moving.",
     "links": [
-      {
-        "label": "This Week in Fintech",
-        "url": "https://www.thisweekinfintech.com"
-      }
+      {"label": "This Week in Fintech", "url": "https://www.thisweekinfintech.com"}
     ],
     "source_count": 0
   },
@@ -306,18 +205,10 @@
     "title": "Founder, Fintech Brainfood · Advisor, Sardine",
     "avatar_initials": "ST",
     "avatar_color": "#059669",
-    "domains": [
-      "Fintech",
-      "Payments",
-      "Banking",
-      "AI × Finance"
-    ],
+    "domains": ["Fintech", "Payments", "Banking", "AI × Finance"],
     "bio_short": "Creator of Fintech Brainfood — consistently voted one of the most influential voices in banking and fintech. Writes weekly on payments, banking infrastructure, and the AI layer being built on top of it.",
     "links": [
-      {
-        "label": "Fintech Brainfood",
-        "url": "https://www.fintechbrainfood.com"
-      }
+      {"label": "Fintech Brainfood", "url": "https://www.fintechbrainfood.com"}
     ],
     "source_count": 0
   },
@@ -327,18 +218,10 @@
     "title": "General Partner, a16z · AI × Fintech",
     "avatar_initials": "AS",
     "avatar_color": "#dc2626",
-    "domains": [
-      "Fintech",
-      "Venture",
-      "AI × Finance",
-      "Product Strategy"
-    ],
+    "domains": ["Fintech", "Venture", "AI × Finance", "Product Strategy"],
     "bio_short": "General Partner at Andreessen Horowitz, focused on AI Applications and Fintech/Insurance. Board-level view on where capital is flowing in financial services — useful for understanding where the industry is heading, not just where it is.",
     "links": [
-      {
-        "label": "a16z Profile",
-        "url": "https://a16z.com/angela-strange/"
-      }
+      {"label": "a16z Profile", "url": "https://a16z.com/angela-strange/"}
     ],
     "source_count": 0
   },
@@ -348,21 +231,11 @@
     "title": "Author, Escaping the Build Trap · CPO Advisor",
     "avatar_initials": "MP",
     "avatar_color": "#64748b",
-    "domains": [
-      "Product Ops",
-      "Product Leadership",
-      "CPO-Level"
-    ],
+    "domains": ["Product Ops", "Product Leadership", "CPO-Level"],
     "bio_short": "Author of Escaping the Build Trap. Advises CPOs and product organizations on how to build for outcomes, not output. Increasingly focused on how AI changes product operating models at scale.",
     "links": [
-      {
-        "label": "Substack",
-        "url": "https://melissaperri.substack.com"
-      },
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/@MelissaPerri"
-      }
+      {"label": "Substack", "url": "https://melissaperri.substack.com"},
+      {"label": "YouTube", "url": "https://www.youtube.com/@MelissaPerri"}
     ],
     "source_count": 0
   },
@@ -372,16 +245,10 @@
     "title": "Author, Continuous Discovery Habits",
     "avatar_initials": "TT",
     "avatar_color": "#ec4899",
-    "domains": [
-      "Product Discovery",
-      "Outcome-Driven PM"
-    ],
+    "domains": ["Product Discovery", "Outcome-Driven PM"],
     "bio_short": "Defined continuous discovery as a discipline. Most practically useful voice on how to build fast, lightweight feedback loops — especially relevant as AI makes it cheaper to build and easier to validate.",
     "links": [
-      {
-        "label": "Product Talk",
-        "url": "https://www.producttalk.org"
-      }
+      {"label": "Product Talk", "url": "https://www.producttalk.org"}
     ],
     "source_count": 0
   },
@@ -391,17 +258,10 @@
     "title": "Author, Obviously Awesome · Positioning Expert",
     "avatar_initials": "AD",
     "avatar_color": "#7c6aff",
-    "domains": [
-      "Positioning",
-      "Narrative",
-      "Product Marketing"
-    ],
+    "domains": ["Positioning", "Narrative", "Product Marketing"],
     "bio_short": "The definitive voice on product positioning. Author of Obviously Awesome and Sales Pitch. Particularly relevant for anyone repositioning themselves or a product — cuts through vague strategy to executable narrative.",
     "links": [
-      {
-        "label": "Substack",
-        "url": "https://aprildunford.substack.com"
-      }
+      {"label": "Substack", "url": "https://aprildunford.substack.com"}
     ],
     "source_count": 0
   },
@@ -411,18 +271,10 @@
     "title": "VP, Gemini & Google Labs (NotebookLM, AI Studio)",
     "avatar_initials": "JW",
     "avatar_color": "#0284c7",
-    "domains": [
-      "AI Product",
-      "Google AI",
-      "Product Vision",
-      "AI × UX"
-    ],
+    "domains": ["AI Product", "Google AI", "Product Vision", "AI × UX"],
     "bio_short": "Leads Gemini, Google Labs, NotebookLM, and AI Studio at Google. Named to TIME 100 AI 2025. The most product-forward thinker at Google on shipping AI — focused on making frontier capabilities widely accessible.",
     "links": [
-      {
-        "label": "Google Labs",
-        "url": "https://labs.google"
-      }
+      {"label": "Google Labs", "url": "https://labs.google"}
     ],
     "source_count": 0
   }
