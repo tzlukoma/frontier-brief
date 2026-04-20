@@ -259,5 +259,31 @@
       "technical-enablement",
       "service-differentiation"
     ]
+  },
+  {
+    "id": "s012",
+    "type": "signal",
+    "title": "Why half of product managers are in trouble | Nikhyl Singhal (Meta, Google)",
+    "expert": "Lenny Rachitsky",
+    "expert_slug": "lenny-rachitsky",
+    "source_type": "video",
+    "source_url": "https://www.youtube.com/watch?v=yUohoaC8_Hs",
+    "published": "2026-04-19",
+    "processed": "2026-04-19",
+    "domains": [
+      "ai-\u00d7-product",
+      "growth",
+      "pm-career"
+    ],
+    "thomas_lens": "The information mover is becoming obsolete. PMs who've built careers on moving data up/down org hierarchies will struggle. The split is now binary: builders win big, non-builders are in trouble. But for builders, the constraints have lifted\u2014you can ship, test, and validate directly. The real skill now is judgment at speed.",
+    "key_quote": "The information mover is essentially going to become a dinosaur... if you don't love building stuff, you're in trouble. Builders are going to have the time of their lives.",
+    "tags": [
+      "PM career",
+      "AI era",
+      "builders",
+      "judgment",
+      "product leadership",
+      "AI first"
+    ]
   }
 ]
