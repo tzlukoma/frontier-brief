@@ -1,6 +1,2 @@
 [build]
-command = "python3 scripts/generate_frontier_rss.py"
 publish = "."
-
-[build.environment]
-PYTHONUNBUFFERABLE = "true"
