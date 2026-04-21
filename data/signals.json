@@ -306,5 +306,31 @@
       "developer-experience",
       "product-transformation"
     ]
+  },
+  {
+    "id": "s014",
+    "type": "signal",
+    "title": "Hard Truths About Building in the AI Era",
+    "expert": "Keith Rabois",
+    "expert_slug": "keith-rabois",
+    "source_type": "podcast",
+    "source_url": "https://youtu.be/xCd9ykretlg?si=NdR30O2ikfwQE6Qq",
+    "published": "2026-04-21",
+    "processed": "2026-04-21",
+    "domains": [
+      "product-leadership",
+      "ai-product",
+      "building"
+    ],
+    "thomas_lens": "Barrels over ammunition. Keith dismantles the PM role\u2014it merges into CEO thinking under AI velocity. His framework on talent density, ruthless execution tempo, and founder-mode decision-making (especially avoiding customer feedback loops for consumer products) is crucial as you navigate scaling Shuri, OpenClaw, and any venture. Most important: the ratio of exceptional people (barrels) to support staff determines parallel execution capacity. High performers want pressure, not psychological safety.",
+    "key_quote": "The idea of a PM makes no sense in the future\u2026 the skill is more like being a CEO now, which is what are we building and why?",
+    "tags": [
+      "talent-density",
+      "barrels-ammunition",
+      "founder-mode",
+      "execution-tempo",
+      "product-leadership",
+      "ai-velocity"
+    ]
   }
 ]
