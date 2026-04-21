@@ -6,5 +6,8 @@
 .DS_Store
 Thumbs.db
 
+# Generated files
+feed.xml
+
 # Local Netlify folder
 .netlify
