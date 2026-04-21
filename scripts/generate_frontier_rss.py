@@ -20,8 +20,7 @@ from datetime import datetime, timezone
 from urllib.parse import urljoin
 
 SCRIPTS_DIR = os.path.dirname(os.path.abspath(__file__))
-WORKSPACE = os.path.join(SCRIPTS_DIR, "..")
-FRONTIER_DIR = os.path.join(WORKSPACE, "frontier-brief")
+FRONTIER_DIR = os.path.dirname(SCRIPTS_DIR)  # Parent of scripts/ = frontier-brief root
 
 SIGNALS_FILE = os.path.join(FRONTIER_DIR, "data", "signals.json")
 POSTS_FILE = os.path.join(FRONTIER_DIR, "data", "posts.json")
