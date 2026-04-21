@@ -5,25 +5,12 @@
     "title": "Founder, Lenny's Newsletter & Podcast",
     "avatar_initials": "LR",
     "avatar_color": "#6366f1",
-    "domains": [
-      "AI \u00d7 Product",
-      "Growth",
-      "PM Career"
-    ],
+    "domains": ["AI × Product", "Growth", "PM Career"],
     "bio_short": "Former Airbnb PM. Runs the most-read product management newsletter and podcast. Known for rigorous, practitioner-grounded takes on what actually works in product.",
     "links": [
-      {
-        "label": "Newsletter",
-        "url": "https://www.lennysnewsletter.com"
-      },
-      {
-        "label": "Podcast",
-        "url": "https://www.lennysnewsletter.com/podcast"
-      },
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/@LennysPodcast"
-      }
+      {"label": "Newsletter", "url": "https://www.lennysnewsletter.com"},
+      {"label": "Podcast", "url": "https://www.lennysnewsletter.com/podcast"},
+      {"label": "YouTube", "url": "https://www.youtube.com/@LennysPodcast"}
     ],
     "source_count": 0
   },
@@ -33,76 +20,49 @@
     "title": "Author, Continuous Discovery Habits",
     "avatar_initials": "TT",
     "avatar_color": "#ec4899",
-    "domains": [
-      "Product Discovery",
-      "Outcome-Driven PM"
-    ],
-    "bio_short": "Defined continuous discovery as a discipline. Most practically useful voice on how to build fast, lightweight feedback loops \u2014 especially relevant as AI makes it cheaper to build and easier to validate.",
+    "domains": ["Product Discovery", "Outcome-Driven PM"],
+    "bio_short": "Defined continuous discovery as a discipline. Most practically useful voice on how to build fast, lightweight feedback loops — especially relevant as AI makes it cheaper to build and easier to validate.",
     "links": [
-      {
-        "label": "Product Talk",
-        "url": "https://www.producttalk.org"
-      }
+      {"label": "Product Talk", "url": "https://www.producttalk.org"}
     ],
     "source_count": 0
   },
   {
     "slug": "simon-willison",
     "name": "Simon Willison",
-    "title": "Creator, Datasette \u00b7 Independent AI Practitioner",
+    "title": "Creator, Datasette · Independent AI Practitioner",
     "avatar_initials": "SW",
     "avatar_color": "#84cc16",
-    "domains": [
-      "AI Tools",
-      "AI Practice",
-      "Technical AI"
-    ],
-    "bio_short": "Prolific open-source developer and one of the sharpest, most honest practitioners writing about AI tools. Cuts through hype with working code and real-world tests \u2014 valuable for technical grounding.",
+    "domains": ["AI Tools", "AI Practice", "Technical AI"],
+    "bio_short": "Prolific open-source developer and one of the sharpest, most honest practitioners writing about AI tools. Cuts through hype with working code and real-world tests — valuable for technical grounding.",
     "links": [
-      {
-        "label": "Blog",
-        "url": "https://simonwillison.net"
-      }
+      {"label": "Blog", "url": "https://simonwillison.net"}
     ],
     "source_count": 0
   },
   {
     "slug": "ethan-mollick",
     "name": "Ethan Mollick",
-    "title": "Professor, Wharton \u00b7 Author, Co-Intelligence",
+    "title": "Professor, Wharton · Author, Co-Intelligence",
     "avatar_initials": "EM",
     "avatar_color": "#06b6d4",
-    "domains": [
-      "AI \u00d7 Work",
-      "Research",
-      "AI Education"
-    ],
-    "bio_short": "The most rigorous academic voice on how AI changes knowledge work and organizations. Empirical, measured, and consistently ahead of the hype \u2014 essential reading for anyone leading in the AI era.",
+    "domains": ["AI × Work", "Research", "AI Education"],
+    "bio_short": "The most rigorous academic voice on how AI changes knowledge work and organizations. Empirical, measured, and consistently ahead of the hype — essential reading for anyone leading in the AI era.",
     "links": [
-      {
-        "label": "One Useful Thing",
-        "url": "https://www.oneusefulthing.org"
-      }
+      {"label": "One Useful Thing", "url": "https://www.oneusefulthing.org"}
     ],
     "source_count": 0
   },
   {
     "slug": "shreyas-doshi",
     "name": "Shreyas Doshi",
-    "title": "Former PM Leader, Stripe \u00b7 Twitter \u00b7 Google",
+    "title": "Former PM Leader, Stripe · Twitter · Google",
     "avatar_initials": "SD",
     "avatar_color": "#8b5cf6",
-    "domains": [
-      "Product Leadership",
-      "AI \u00d7 PM",
-      "Career"
-    ],
-    "bio_short": "One of the most precise thinkers on product craft. Known for frameworks that hold under pressure \u2014 especially on how AI reshapes what PM skills actually matter long-term.",
+    "domains": ["Product Leadership", "AI × PM", "Career"],
+    "bio_short": "One of the most precise thinkers on product craft. Known for frameworks that hold under pressure — especially on how AI reshapes what PM skills actually matter long-term.",
     "links": [
-      {
-        "label": "Substack",
-        "url": "https://shreyasdoshi.substack.com"
-      }
+      {"label": "Substack", "url": "https://shreyasdoshi.substack.com"}
     ],
     "source_count": 0
   },
@@ -112,60 +72,37 @@
     "title": "Founder, Silicon Valley Product Group",
     "avatar_initials": "MC",
     "avatar_color": "#f59e0b",
-    "domains": [
-      "Product Management",
-      "Product Leadership"
-    ],
-    "bio_short": "Author of Inspired and Empowered. The canonical voice on what separates strong product organizations from feature factories \u2014 increasingly relevant as AI reshapes team structure.",
+    "domains": ["Product Management", "Product Leadership"],
+    "bio_short": "Author of Inspired and Empowered. The canonical voice on what separates strong product organizations from feature factories — increasingly relevant as AI reshapes team structure.",
     "links": [
-      {
-        "label": "SVPG Blog",
-        "url": "https://www.svpg.com/articles/"
-      }
+      {"label": "SVPG Blog", "url": "https://www.svpg.com/articles/"}
     ],
     "source_count": 0
   },
   {
     "slug": "april-dunford",
     "name": "April Dunford",
-    "title": "Author, Obviously Awesome \u00b7 Positioning Expert",
+    "title": "Author, Obviously Awesome · Positioning Expert",
     "avatar_initials": "AD",
     "avatar_color": "#7c6aff",
-    "domains": [
-      "Positioning",
-      "Narrative",
-      "Product Marketing"
-    ],
-    "bio_short": "The definitive voice on product positioning. Author of Obviously Awesome and Sales Pitch. Particularly relevant for anyone repositioning themselves or a product \u2014 cuts through vague strategy to executable narrative.",
+    "domains": ["Positioning", "Narrative", "Product Marketing"],
+    "bio_short": "The definitive voice on product positioning. Author of Obviously Awesome and Sales Pitch. Particularly relevant for anyone repositioning themselves or a product — cuts through vague strategy to executable narrative.",
     "links": [
-      {
-        "label": "Substack",
-        "url": "https://aprildunford.substack.com"
-      }
+      {"label": "Substack", "url": "https://aprildunford.substack.com"}
     ],
     "source_count": 0
   },
   {
     "slug": "andrej-karpathy",
     "name": "Andrej Karpathy",
-    "title": "Founder, Eureka Labs \u00b7 Ex-OpenAI \u00b7 Ex-Tesla AI",
+    "title": "Founder, Eureka Labs · Ex-OpenAI · Ex-Tesla AI",
     "avatar_initials": "AK",
     "avatar_color": "#14b8a6",
-    "domains": [
-      "AI Capabilities",
-      "AI Education",
-      "Technical AI"
-    ],
+    "domains": ["AI Capabilities", "AI Education", "Technical AI"],
     "bio_short": "OpenAI co-founder, former Tesla AI Director. Now running Eureka Labs, an AI education company. Coined 'vibe coding.' The clearest explainer of where AI is actually heading, technically.",
     "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/@AndrejKarpathy"
-      },
-      {
-        "label": "Blog",
-        "url": "https://karpathy.github.io"
-      }
+      {"label": "YouTube", "url": "https://www.youtube.com/@AndrejKarpathy"},
+      {"label": "Blog", "url": "https://karpathy.github.io"}
     ],
     "source_count": 0
   },
@@ -175,32 +112,20 @@
     "title": "VP, Gemini & Google Labs (NotebookLM, AI Studio)",
     "avatar_initials": "JW",
     "avatar_color": "#0284c7",
-    "domains": [
-      "AI Product",
-      "Google AI",
-      "Product Vision",
-      "AI \u00d7 UX"
-    ],
-    "bio_short": "Leads Gemini, Google Labs, NotebookLM, and AI Studio at Google. Named to TIME 100 AI 2025. The most product-forward thinker at Google on shipping AI \u2014 focused on making frontier capabilities widely accessible.",
+    "domains": ["AI Product", "Google AI", "Product Vision", "AI × UX"],
+    "bio_short": "Leads Gemini, Google Labs, NotebookLM, and AI Studio at Google. Named to TIME 100 AI 2025. The most product-forward thinker at Google on shipping AI — focused on making frontier capabilities widely accessible.",
     "links": [
-      {
-        "label": "Google Labs",
-        "url": "https://labs.google"
-      }
+      {"label": "Google Labs", "url": "https://labs.google"}
     ],
     "source_count": 0
   },
   {
     "slug": "aakash-gupta",
     "name": "Aakash Gupta",
-    "title": "Product Leader \u00b7 AI \u00d7 Product Strategy",
+    "title": "Product Leader · AI × Product Strategy",
     "avatar_initials": "AG",
     "avatar_color": "#f97316",
-    "domains": [
-      "AI \u00d7 Product",
-      "Product Strategy",
-      "PM Career"
-    ],
+    "domains": ["AI × Product", "Product Strategy", "PM Career"],
     "bio_short": "Highly active and well-respected product voice at the intersection of AI and product strategy. Known for clear, practical frameworks on how teams actually ship in the AI era.",
     "links": [],
     "source_count": 0
@@ -208,68 +133,34 @@
   {
     "slug": "bob-moesta",
     "name": "Bob Moesta",
-    "title": "Co-founder, The Jobs Company \u00b7 Jobs-to-be-Done Pioneer",
+    "title": "Co-founder, The Jobs Company · Jobs-to-be-Done Pioneer",
     "avatar_initials": "BM",
     "avatar_color": "#14b8a6",
-    "domains": [
-      "Product Discovery",
-      "Jobs-to-be-Done",
-      "Customer Insight"
-    ],
-    "bio_short": "Jobs-to-be-Done founder and practitioner. Brings deep, rigorous insight into how customers actually think about problems \u2014 essential for anyone building product that resonates.",
+    "domains": ["Product Discovery", "Jobs-to-be-Done", "Customer Insight"],
+    "bio_short": "Jobs-to-be-Done founder and practitioner. Brings deep, rigorous insight into how customers actually think about problems — essential for anyone building product that resonates.",
     "links": [],
     "source_count": 0
   },
   {
     "slug": "john-cutler",
     "name": "John Cutler",
-    "title": "Product Advisor \u00b7 Systems Thinking for Product Teams",
+    "title": "Product Advisor · Systems Thinking for Product Teams",
     "avatar_initials": "JC",
     "avatar_color": "#8b5cf6",
-    "domains": [
-      "Product Leadership",
-      "Systems Thinking",
-      "Team Dynamics"
-    ],
-    "bio_short": "Systems thinker focused on how product teams actually work. Highly cited for connecting psychology, team dynamics, and product execution \u2014 deeply practical on org-level product challenges.",
+    "domains": ["Product Leadership", "Systems Thinking", "Team Dynamics"],
+    "bio_short": "Systems thinker focused on how product teams actually work. Highly cited for connecting psychology, team dynamics, and product execution — deeply practical on org-level product challenges.",
     "links": [],
     "source_count": 0
   },
   {
     "slug": "pawel-huryn",
-    "name": "Pawe\u0142 Huryn",
-    "title": "AI \u00d7 Product Strategy Voice",
+    "name": "Paweł Huryn",
+    "title": "AI × Product Strategy Voice",
     "avatar_initials": "PH",
     "avatar_color": "#06b6d4",
-    "domains": [
-      "AI \u00d7 Product",
-      "Product Strategy",
-      "AI Practice"
-    ],
+    "domains": ["AI × Product", "Product Strategy", "AI Practice"],
     "bio_short": "Sharp, actionable voice on the AI + product intersection. Current on what's shifting in how teams integrate AI into their workflow and product decisions.",
     "links": [],
     "source_count": 0
-  },
-  {
-    "name": "Keith Rabois",
-    "slug": "keith-rabois",
-    "title": "Managing Director, Khosla Ventures",
-    "bio": "Former COO of Square, early-stage investor in Stripe, Airbnb, YouTube, Palantir, DoorDash, Ramp. PayPal alumni (EVP of Business Development & Policy). 25+ years building and scaling high-velocity, talent-dense organizations. Known for ruthless operator mindset, founder-mode thinking, and contrarian views on product strategy.",
-    "domains": [
-      "product-leadership",
-      "building",
-      "startup-strategy",
-      "venture"
-    ],
-    "social": {
-      "twitter": "https://x.com/rabois",
-      "linkedin": "https://www.linkedin.com/in/keith-rabois/"
-    },
-    "sources": {
-      "podcast": "https://www.youtube.com/@lennyspodcast",
-      "blog": ""
-    },
-    "avatar": "https://pbs.twimg.com/profile_images/1445764532/keithrabois_normal.jpg",
-    "added": "2026-04-21"
   }
 ]
