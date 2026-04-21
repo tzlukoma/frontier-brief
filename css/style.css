@@ -1121,3 +1121,22 @@ img { max-width: 100%; }
   .mobile-menu-btn { display: flex; }
   .live-dot { display: none; }
 }
+
+/* ── RSS Feed Link ─────────────────────────────────────────── */
+.rss-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  font-size: 18px;
+  border-radius: 4px;
+  transition: all 0.15s;
+  cursor: pointer;
+  text-decoration: none;
+  margin-right: 8px;
+}
+.rss-link:hover {
+  background: var(--card-bg);
+  transform: scale(1.1);
+}
