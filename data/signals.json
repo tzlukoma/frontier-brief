@@ -331,5 +331,32 @@
       "leadership-conflict",
       "platform-responsibility"
     ]
+  },
+  {
+    "id": "s015",
+    "type": "signal",
+    "title": "Vibe Coding in Prod: Delegating to AI Without Loss of Control",
+    "expert": "Eric",
+    "expert_slug": "eric-anthropic-coding-agents",
+    "source_type": "video",
+    "source_url": "https://www.youtube.com/watch?v=fHWFF_pnqDk",
+    "published": "2026-04-21",
+    "processed": "2026-04-21",
+    "domains": [
+      "ai-engineering",
+      "product-leadership",
+      "coding-agents"
+    ],
+    "thomas_lens": "As AI capability doubles every 7 months, line-by-line code review becomes a bottleneck. Eric's framework for \"vibe coding responsibly\"\u2014fully delegating large tasks to Claude while verifying via tests, not inspection\u2014flips the script on how teams scale. The key insight: treat AI like a junior hire (invest upfront in context/requirements), focus AI on leaf nodes (low-dependency features), keep humans owning architecture, and design for verifiability (tests + observable behavior) rather than code inspection.",
+    "key_quote": "Computer RAM went from kilobytes to terabytes\u2014a million-fold improvement. AI will go from 'help with one function' to 'rewrite entire systems.' Karpathy's point about early compilers being distrusted but nobody reading assembly now predicts painful irrelevance for engineers who demand to write every line.",
+    "tags": [
+      "ai-engineering",
+      "coding-agents",
+      "vibe-coding",
+      "delegation",
+      "production-safety",
+      "architectural-thinking",
+      "exponential-capability"
+    ]
   }
 ]
