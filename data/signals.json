@@ -306,5 +306,30 @@
       "developer-experience",
       "product-transformation"
     ]
+  },
+  {
+    "id": "s014",
+    "type": "signal",
+    "title": "On the Ring of Power and AGI Dynamics",
+    "expert": "Sam Altman",
+    "expert_slug": "sam-altman",
+    "source_type": "blog",
+    "source_url": "https://blog.samaltman.com/2279512",
+    "published": "2026-04-21",
+    "processed": "2026-04-21",
+    "domains": [
+      "ai-governance",
+      "agi-dynamics",
+      "platform-responsibility"
+    ],
+    "thomas_lens": "This reveals the extreme pressure and polarization facing AI platform leaders. For product builders, Altman's framing suggests the strategic imperative isn't just technical excellence but designing for distributed access and democratic accountability from the start\u2014concentrated control models will face escalating resistance.",
+    "key_quote": "Once you see AGI you can't unsee it. It has a real 'ring of power' dynamic to it, and makes people do crazy things. I don't mean that AGI is the ring itself, but instead the totalizing philosophy of 'being the one to control AGI'.",
+    "tags": [
+      "ai-governance",
+      "democratization",
+      "agi-dynamics",
+      "leadership-conflict",
+      "platform-responsibility"
+    ]
   }
 ]
