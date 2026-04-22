@@ -385,5 +385,55 @@
       "staffing",
       "capacity-planning"
     ]
+  },
+  {
+    "id": "s017",
+    "type": "signal",
+    "title": "Product Roadmaps: How the Best Product Teams Plan for Uncertainty",
+    "expert": "Teresa Torres",
+    "expert_slug": "teresa-torres",
+    "source_type": "article",
+    "source_url": "https://www.producttalk.org/product-roadmaps/",
+    "published": "2026-04-21",
+    "processed": "2026-04-21",
+    "domains": [
+      "product-leadership",
+      "planning",
+      "uncertainty"
+    ],
+    "thomas_lens": "For product leaders, this directly addresses the tension between rapid experimentation (essential for discovering what actually works) and organizational coordination. Outcome-based roadmaps become critical for maintaining stakeholder trust while preserving team autonomy to pivot when needed.",
+    "key_quote": "Feature-based roadmaps are fiction. Everyone on the product team knows it. The challenge is the rest of the organization sees it as a contract. When the product team breaks the contract, as they inevitably will do, trust erodes.",
+    "tags": [
+      "product-roadmaps",
+      "outcome-based-planning",
+      "product-leadership",
+      "stakeholder-management",
+      "uncertainty"
+    ]
+  },
+  {
+    "id": "s018",
+    "type": "signal",
+    "title": "A Guide to Which AI to Use in the Agentic Era",
+    "expert": "Ethan Mollick",
+    "expert_slug": "ethan-mollick",
+    "source_type": "article",
+    "source_url": "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "published": "2026-04-21",
+    "processed": "2026-04-21",
+    "domains": [
+      "ai-architecture",
+      "product-differentiation",
+      "agentic-ai"
+    ],
+    "thomas_lens": "This decomposition of AI products into models/apps/harnesses is the new competitive landscape. Product differentiation increasingly comes from harness design (what tools you give the AI, how you orchestrate multi-step workflows) rather than model quality alone, since frontier models are converging in capability. Your moat isn't exclusive access to smart AI\u2014it's how you instrument it to deliver value.",
+    "key_quote": "Until recently, you didn't have to know this. The model was the product, the app was the website, and the harness was minimal. You typed, it responded, you typed again. Now the same model can behave very differently depending on what harness it's operating in.",
+    "tags": [
+      "agentic-ai",
+      "ai-architecture",
+      "product-differentiation",
+      "model-selection",
+      "ai-harnesses"
+    ]
   }
 ]
