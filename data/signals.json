@@ -358,5 +358,32 @@
       "architectural-thinking",
       "exponential-capability"
     ]
+  },
+  {
+    "id": "s016",
+    "type": "signal",
+    "title": "The Shape of the Thing: From Working With AI to Managing AI",
+    "expert": "Ethan Mollick",
+    "expert_slug": "ethan-mollick",
+    "source_type": "blog",
+    "source_url": "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "published": "2026-04-21",
+    "processed": "2026-04-21",
+    "domains": [
+      "ai-agents",
+      "product-leadership",
+      "organizational-design"
+    ],
+    "thomas_lens": "The shift from 'working with AI' to 'managing AI' requires rethinking product team structure, staffing ratios, and what human roles should focus on. If engineers can delegate $1000/day in AI work (equivalent to their salary), traditional headcount-based capacity planning becomes obsolete\u2014velocity is now constrained by oversight capacity and strategic direction, not coding bandwidth.",
+    "key_quote": "Starting in late 2025, we entered a new era thanks to AI agents like Claude Code, OpenAI's Codex, and OpenClaw. These are AI systems that you can just give work to, sometimes hours of human work, and get back reasonable and useful results in minutes. This is an era of managing AIs, rather than working with them.",
+    "tags": [
+      "ai-agents",
+      "autonomous-ai",
+      "exponential-progress",
+      "software-factory",
+      "organizational-design",
+      "staffing",
+      "capacity-planning"
+    ]
   }
 ]
