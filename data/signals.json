@@ -435,5 +435,30 @@
       "model-selection",
       "ai-harnesses"
     ]
+  },
+  {
+    "id": "s019",
+    "type": "signal",
+    "title": "Your AI Agent Can Read Your Codebase. It Doesn't Know Your Product.",
+    "expert": "Fabricio Teixeira",
+    "expert_slug": "fabricio-teixeira",
+    "source_type": "article",
+    "source_url": "https://uxdesign.cc/your-ai-agent-can-read-your-codebase-it-doesnt-know-your-product-b5ea0cd77989",
+    "published": "2026-04-23",
+    "processed": "2026-04-23",
+    "domains": [
+      "ai-agents",
+      "product-leadership",
+      "context-engineering"
+    ],
+    "thomas_lens": "Context engineering is emerging as the critical skill gap between generic AI-assisted development and distinctive product building. As AI agents become standard tooling, competitive advantage shifts from what the agent can do to what product knowledge you can articulate and systematize. This is a new product leadership capability: capturing the 60% of product identity that doesn't live in code.",
+    "key_quote": "Code carries maybe 40% of it, enough to infer tokens, layout conventions, entity names, API shapes. The other 60% lives outside the code: in design files, in marketing copy, in decisions. An agent that only reads code will make up the rest.",
+    "tags": [
+      "ai-agents",
+      "design-context",
+      "context-engineering",
+      "product-identity",
+      "ai-tooling"
+    ]
   }
 ]

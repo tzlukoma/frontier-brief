@@ -5,7 +5,7 @@
     <link>https://frontier-brief.netlify.app</link>
     <description>Signals, synthesis, and thinking at the intersection of AI, product leadership, and enterprise fintech.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Apr 2026 02:19:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 13:43:24 +0000</lastBuildDate>
     <ttl>240</ttl>
     <managingEditor>Thomas Lukoma</managingEditor>
     <webMaster>Thomas Lukoma</webMaster>
@@ -14,9 +14,19 @@
     <author>Thomas Lukoma</author>
     <link>https://frontier-brief.netlify.app/posts/we-solved-the-speed-problem-we-created-a-clarity.html</link>
     <guid isPermaLink="false">post-we-solved-the-speed-problem-we-created-a-clarity</guid>
-    <pubDate>Wed, 22 Apr 2026 02:19:33 +0000</pubDate>
+    <pubDate>Thu, 23 Apr 2026 13:43:24 +0000</pubDate>
     <description>AI made building faster. That should mean more learning, more testing, more iteration. Instead, most teams are producing more noise, faster. The problem isn&apos;t capability. It&apos;s clarity.</description>
     <category>Post</category>
+  </item>
+
+  <item>
+    <title>Your AI Agent Can Read Your Codebase. It Doesn&apos;t Know Your Product.</title>
+    <author>Fabricio Teixeira</author>
+    <link>https://frontier-brief.netlify.app?signal=s019</link>
+    <guid isPermaLink="false">s019</guid>
+    <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+    <description><p><strong>Thomas's lens:</strong> Context engineering is emerging as the critical skill gap between generic AI-assisted development and distinctive product building. As AI agents become standard tooling, competitive advantage shifts from what the agent can do to what product knowledge you can articulate and systematize. This is a new product leadership capability: capturing the 60% of product identity that doesn&apos;t live in code.</p><blockquote><p>Code carries maybe 40% of it, enough to infer tokens, layout conventions, entity names, API shapes. The other 60% lives outside the code: in design files, in marketing copy, in decisions. An agent that only reads code will make up the rest.</p></blockquote><p><a href="https://uxdesign.cc/your-ai-agent-can-read-your-codebase-it-doesnt-know-your-product-b5ea0cd77989">Read original →</a></p></description>
+    <category>Signal</category>
   </item>
 
   <item>
